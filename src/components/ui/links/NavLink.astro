@@ -20,13 +20,14 @@ const isActive = currentPath === targetPath ||
 <a
   href={url}
   data-astro-prefetch
-  class={`inline-flex items-center rounded-lg text-base font-semibold transition-colors duration-300 outline-hidden ring-zinc-500 focus-visible:ring-3 dark:ring-zinc-200 dark:focus:outline-hidden md:py-3 md:text-sm 2xl:text-base ${
+  class={`relative inline-flex items-center justify-center rounded-full px-4 py-2 md:py-2.5 text-sm font-bold transition-all duration-300 outline-hidden whitespace-nowrap group md:text-sm 2xl:text-base ${
     isActive
-      ? "text-orange-600 dark:text-orange-400 md:border-b-2 md:border-orange-600 dark:md:border-orange-400 md:rounded-none md:pb-1"
-      : "text-neutral-600 hover:text-orange-500 dark:text-neutral-400 dark:hover:text-orange-300"
+      ? "text-primary-800 bg-white/60 dark:text-primary-300 dark:bg-white/10 shadow-[0_2px_10px_rgba(0,0,0,0.05),inset_0_1px_1px_rgba(255,255,255,0.8)] dark:shadow-[inset_0_1px_1px_rgba(255,255,255,0.1)] border border-white/50 dark:border-white/10 backdrop-blur-md scale-105"
+      : "text-neutral-700 hover:text-primary-700 hover:bg-white/40 dark:text-neutral-300 dark:hover:text-primary-300 dark:hover:bg-white/5 hover:shadow-sm border border-transparent hover:border-white/40 dark:hover:border-white/10 hover:scale-105"
   }`}
   aria-current={isActive ? "page" : undefined}
 >
-  {name}
+  <span class="relative z-10">{name}</span>
+  {!isActive && <div class="absolute inset-0 rounded-full bg-gradient-to-r from-transparent via-white/40 dark:via-white/5 to-transparent opacity-0 group-hover:opacity-100 blur-sm transition-opacity duration-500"></div>}
 </a>
 

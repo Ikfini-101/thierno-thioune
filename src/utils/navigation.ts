@@ -1,14 +1,14 @@
 ﻿const navBarLinks = [
-  { name: "Accueil", url: "/" },
-  { name: "Publications", url: "/publications" },
+  { name: "Prof. Thioune", url: "/" },
+  { name: "Publications Prof. THIOUNE", url: "/publications" },
 ];
 
 const footerLinks = [
   {
     section: "Parcours",
     links: [
-      { name: "Accueil", url: "/" },
-      { name: "Publications Scientifiques", url: "/publications" },
+      { name: "Prof. Thioune", url: "/" },
+      { name: "Publications Prof. THIOUNE", url: "/publications" },
     ],
   }
 ];

@@ -55,10 +55,14 @@ interface Props {
     </script>
   </head>
   <body
-    class="bg-neutral-50 selection:bg-yellow-400 selection:text-neutral-700 dark:bg-neutral-900 flex flex-col min-h-screen"
+    class="bg-transparent selection:bg-yellow-400 selection:text-neutral-700 dark:bg-transparent flex flex-col min-h-screen"
   >
+    <!-- Main Background Image -->
+    <div class="fixed inset-0 z-[-2] bg-[url('/background.png')] bg-cover bg-center bg-no-repeat bg-fixed"></div>
+
     <!-- Ambient background for glass effect globally -->
     <div class="fixed inset-0 z-[-1] overflow-hidden pointer-events-none">
+      <div class="absolute inset-0 bg-white/40 dark:bg-black/60 backdrop-blur-[2px]"></div>
       <div class="absolute top-[-10%] left-[-10%] w-[50%] h-[50%] rounded-full bg-primary-300/40 dark:bg-primary-900/20 blur-[120px]"></div>
       <div class="absolute bottom-[-10%] right-[-10%] w-[50%] h-[50%] rounded-full bg-blue-300/40 dark:bg-blue-900/20 blur-[120px]"></div>
     </div>

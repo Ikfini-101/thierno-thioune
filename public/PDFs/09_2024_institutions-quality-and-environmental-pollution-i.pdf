@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Foreign Direct Investment, Institutional Quality, and Environmental Pollution in  Selected African Countries
+							| American Journal of Environmental Economics
+			</title>
+    <link rel="canonical" href="https://journals.e-palli.com/home/index.php/ajee/article/view/3939" />
+	
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WXNKXX79');</script>
+<!-- End Google Tag Manager -->
+		<!-- Google tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-253396039-1">
+		</script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-253396039-1');
+		</script>
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17695458611"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'AW-17695458611');
+		</script>
+		
+
+	
+	
+	<link rel="icon" href="https://journals.e-palli.com/images/logo.png" sizes="32x32" />
+	<link rel='stylesheet' href='https://journals.e-palli.com/home/styles/design.css' type='text/css' media='all' />
+	
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE15GHC7D6"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'G-GE15GHC7D6');
+		</script>
+	
+
+	
+<meta name="generator" content="Open Journal Systems 3.4.0.10" />
+<meta name="author" content="E-Palli Publishers">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 month">
+<meta name="keywords" content="ajaset, ajmri, ajebi, ajaas, ajec, ajmsi, ajet, ajsts, ajise, ajsde, ajgt, ajfst, ajase, ajlsi, ajahs, ajirb, ajywe, ajenr, ajbb, ajsl, ajcp, ajee, ajiri, ajfti, e-palli, e-palli journals, epalli, epalli journals, american journal, journal of science, open access journals, international journal, impact factor,  journal, issn journal, an international journal, American Journal of Agricultural Science Engineering and Technology, American Journal of Applied Statics and Economics, American Journal of Aquaculture and Animal Science, American Journal of Arts and Human Science, American Journal of Bioscience and Bioinformatics, American Journal of Chemistry and Pharmacy,  American Journal of Economics and Business Innovation, American Journal of Education and Technology, American Journal of Energy and Natural Resources, American Journal of Environment and Climate, American Journal of Financial Technology and Innovation, American Journal of Food Science and Technology, American Journal of Geospatial Technology, American Journal of IR 4 and Beyond, American Journal of Innovation in Science and Engineering, American Journal of Interdisciplinary Research and Innovation, American Journal of Life Science and Innovation, American Journal of Medical Science and Innovation, American Journal of Multidisciplinary Research and Innovation, American Journal of Social Development and Entrepreneurship, American Journal of Society and Law, American Journal of Youth and Women Empowerment, research articles"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/about/submissions"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/user/register"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/login"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/announcement"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/about"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/about/editorialTeam"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/about/contact"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/reviewer"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/Authors_Guide"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/c4p"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/call4reviewer"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/Revewers-list"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/Ethics"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/APC"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/review-policy"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/copyright-licence"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/access-policy"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/privacy"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/indexing"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/indexed"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/archiving-policy"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/search"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/issue/current"/>
+<meta name="url" content="https://journals.e-palli.com/home/index.php/ajee/issue/archive"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Akomolafe Kehinde John"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2024-12-07"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2024-11-13"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2024-12-30"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2024-12-07"/>
+<meta name="DC.Description" xml:lang="en" content="African countries increasingly attract foreign direct investment as they strive for economic growth and development. However, there have been concerns over the rising effects of FDI on pollution. These concerns are rooted in the potential for industrial activities associated with FDI to have adverse environmental impacts. Hence, the needs to tackle the problem of pollution cannot be overemphasized. One way to do this is by strengthening the quality of African institutions. This study was conducted to examine the effects of institutional quality and FDI on environmental pollution in selected African countries. Environmental pollution was measured using CO2 emission.The result of the PCSE estimator showed that institutional quality had negative effects on environmental pollution, but the effect of FDI was positive and insignificant. Also, the effect of moderating effect showed that institutional quality has the potential to reduce the positive effect of FDI on environmental pollution. It was recommended that African governments should strengthen the quality of their institutions by strengthening environmental governance frameworks."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="3939"/>
+<meta name="DC.Identifier.pageNumber" content="130-136"/>
+<meta name="DC.Identifier.DOI" content="10.54536/ajee.v3i1.3939"/>
+<meta name="DC.Identifier.URI" content="https://journals.e-palli.com/home/index.php/ajee/article/view/3939"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c) 2024 Kehinde John Akomolafe"/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by/4.0"/>
+<meta name="DC.Source" content="American Journal of Environmental Economics"/>
+<meta name="DC.Source.ISSN" content="2833-7905"/>
+<meta name="DC.Source.Issue" content="1"/>
+<meta name="DC.Source.Volume" content="3"/>
+<meta name="DC.Source.URI" content="https://journals.e-palli.com/home/index.php/ajee"/>
+<meta name="DC.Subject" xml:lang="en" content="Africa"/>
+<meta name="DC.Subject" xml:lang="en" content="Environment"/>
+<meta name="DC.Subject" xml:lang="en" content="FDI"/>
+<meta name="DC.Subject" xml:lang="en" content="PCSE"/>
+<meta name="DC.Subject" xml:lang="en" content="PHH"/>
+<meta name="DC.Subject" xml:lang="en" content="Pollution"/>
+<meta name="DC.Title" content="Foreign Direct Investment, Institutional Quality, and Environmental Pollution in  Selected African Countries"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Research Articles"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="American Journal of Environmental Economics"/>
+<meta name="citation_journal_abbrev" content="Am. J. Environ. Econ."/>
+<meta name="citation_issn" content="2833-7905"/> 
+<meta name="citation_author" content="Akomolafe Kehinde John"/>
+<meta name="citation_author_institution" content="Department of Economics, Afe Babaola University, Ado Ekiti, Nigeria"/>
+<meta name="citation_title" content="Foreign Direct Investment, Institutional Quality, and Environmental Pollution in  Selected African Countries"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_date" content="2024/12/07"/>
+<meta name="citation_publication_date" content="2024/12/07"/>
+<meta name="citation_volume" content="3"/>
+<meta name="citation_issue" content="1"/>
+<meta name="citation_firstpage" content="130"/>
+<meta name="citation_lastpage" content="136"/>
+<meta name="citation_doi" content="10.54536/ajee.v3i1.3939"/>
+<meta name="citation_abstract_html_url" content="https://journals.e-palli.com/home/index.php/ajee/article/view/3939"/>
+<meta name="citation_abstract" xml:lang="en" content="African countries increasingly attract foreign direct investment as they strive for economic growth and development. However, there have been concerns over the rising effects of FDI on pollution. These concerns are rooted in the potential for industrial activities associated with FDI to have adverse environmental impacts. Hence, the needs to tackle the problem of pollution cannot be overemphasized. One way to do this is by strengthening the quality of African institutions. This study was conducted to examine the effects of institutional quality and FDI on environmental pollution in selected African countries. Environmental pollution was measured using CO2 emission.The result of the PCSE estimator showed that institutional quality had negative effects on environmental pollution, but the effect of FDI was positive and insignificant. Also, the effect of moderating effect showed that institutional quality has the potential to reduce the positive effect of FDI on environmental pollution. It was recommended that African governments should strengthen the quality of their institutions by strengthening environmental governance frameworks."/>
+<meta name="citation_keywords" xml:lang="en" content="Africa"/>
+<meta name="citation_keywords" xml:lang="en" content="Environment"/>
+<meta name="citation_keywords" xml:lang="en" content="FDI"/>
+<meta name="citation_keywords" xml:lang="en" content="PCSE"/>
+<meta name="citation_keywords" xml:lang="en" content="PHH"/>
+<meta name="citation_keywords" xml:lang="en" content="Pollution"/>
+<meta name="citation_pdf_url" content="https://journals.e-palli.com/home/index.php/ajee/article/download/3939/1922"/>
+<meta name="citation_reference" content="Abbas, S. J., Iqbal, A., Hussain, M. M., &amp; Anwar, A. (2023). The environmental cost of FDI and spatial implications of CO2 emissions in Sub-Saharan Africa. Environmental Science and Pollution Research, 30(29), 74441-74451."/>
+<meta name="citation_reference" content="Abdo, A. B., Li, B., Zhang, X., Lu, J., &amp; Rasheed, A. (2020). Influence of FDI on environmental pollution in selected Arab countries: a spatial econometric analysis perspective. Environmental Science and Pollution Research, 27, 28222-28246."/>
+<meta name="citation_reference" content="Achuo, E., &amp; Ojong, N. (2024). Foreign direct investment, economic growth and environmental quality in Africa: revisiting the pollution haven and environmental Kuznets curve hypotheses. Journal of Economic Studies. https://doi.org/10.1108/JES-02-2024-0065"/>
+<meta name="citation_reference" content="Adeel-Farooq, R. M., Riaz, M. F., &amp; Ali, T. (2021). Improving the environment begins at home: Revisiting the links between FDI and environment. Energy, 215, 119150."/>
+<meta name="citation_reference" content="Adegboye, F. B., &amp; Okorie, U. E. (2023). Fragility of FDI flows in sub-Saharan Africa region: does the paradox persist?. Future Business Journal, 9(1), 8."/>
+<meta name="citation_reference" content="Akbulut, H., &amp; Yereli, A. B. (2023). A new look at the pollution halo hypothesis: The role of environmental policy stringency. Estudios de economía, 50(1), 31-54."/>
+<meta name="citation_reference" content="Assamoi, G. R., Wang, S., Liu, Y., &amp; Gnangoin, Y. T. B. (2020). Investigating the pollution haven hypothesis in Cote d’Ivoire: evidence from autoregressive distributed lag (ARDL) approach with structural breaks. Environmental Science and Pollution Research, 27, 16886-16899."/>
+<meta name="citation_reference" content="Baajike, F. B., Ntsiful, E., Afriyie, A. B., &amp; Oteng-Abayie, E. F. (2022). The effects of economic growth, trade liberalization, and financial development on environmental sustainability in West Africa. The role of institutions. Research in Globalization, 5, 100104."/>
+<meta name="citation_reference" content="Balsalobre-Lorente, D., Gokmenoglu, K. K., Taspinar, N., &amp; Cantos-Cantos, J. M. (2019). An approach to the pollution haven and pollution halo hypotheses in MINT countries. Environmental Science and Pollution Research, 26, 23010-23026."/>
+<meta name="citation_reference" content="Bashir, M. F. (2022). Discovering the evolution of Pollution Haven Hypothesis: A literature review and future research agenda. Environmental Science and Pollution Research, 29(32), 48210-48232."/>
+<meta name="citation_reference" content="Boamah, V., Tang, D., Zhang, Q., &amp; Zhang, J. (2023). Do FDI Inflows into African Countries Impact Their CO2 Emission Levels?. Sustainability, 15(4), 3131."/>
+<meta name="citation_reference" content="Capitanio, L., Ratte, S., Gautier, S., &amp; Josseran, L. (2024). Impact of air pollution on mortality: Geo-epidemiological study in French-speaking Africa. Heliyon, Volume 10, Issue 20, 30 October 2024, e39473"/>
+<meta name="citation_reference" content="Chirilus, A., &amp; Costea, A. (2023). The effect of FDI on environmental degradation in Romania: Testing the pollution Haven hypothesis. Sustainability, 15(13), 10733."/>
+<meta name="citation_reference" content="Crescenzi, R., Ganau, R., &amp; Storper, M. (2022). Does foreign investment hurt job creation at home? The geography of outward FDI and employment in the USA. Journal of economic geography, 22(1), 53-79."/>
+<meta name="citation_reference" content="Demena, B. A., &amp; Afesorgbor, S. K. (2020). The effect of FDI on environmental emissions: Evidence from a meta-analysis. Energy policy, 138, 111192."/>
+<meta name="citation_reference" content="Duan, Y., &amp; Jiang, X. (2021). Pollution haven or pollution halo? A Re-evaluation on the role of multinational enterprises in global CO2 emissions. Energy Economics, 97, 105181."/>
+<meta name="citation_reference" content="Fu, L., Long, R., Sun, X., &amp; Wang, Y. (2024). Foreign direct investment and pollution emissions: a perspective from heterogeneous environmental regulation. Management of Environmental Quality: An International Journal, 35(2), 378-401."/>
+<meta name="citation_reference" content="Gharnit, S., Bouzahzah, M., &amp; Soussane, J. A. (2019). Foreign direct investment and pollution havens: evidence from African countries. Archives of Business Research, 7(12), 244-252."/>
+<meta name="citation_reference" content="Hao, Y., Wu, Y., Wu, H., &amp; Ren, S. (2020). How do FDI and technical innovation affect environmental quality? Evidence from China. Environmental Science and Pollution Research, 27, 7835-7850."/>
+<meta name="citation_reference" content="Fahad, S., Bai, D., Liu, L., &amp; Baloch, Z. A. (2022). Heterogeneous impacts of environmental regulation on foreign direct investment: do environmental regulation affect FDI decisions?. Environmental Science and Pollution Research, 29(4), 5092-5104."/>
+<meta name="citation_reference" content="Fisher, S., Bellinger, D. C., Cropper, M. L., Kumar, P., Binagwaho, A., Koudenoukpo, J. B., ... &amp; Landrigan, P. J. (2021). Air pollution and development in Africa: impacts on health, the economy, and human capital. The Lancet Planetary Health, 5(10), e681-e688."/>
+<meta name="citation_reference" content="Jiang, L., Zhou, H. F., Bai, L., &amp; Zhou, P. (2018). Does foreign direct investment drive environmental degradation in China? An empirical study based on air quality index from a spatial perspective. Journal of cleaner production, 176, 864-872."/>
+<meta name="citation_reference" content="Khan, M. A., &amp; Ozturk, I. (2020). Examining foreign direct investment and environmental pollution linkage in Asia. Environmental Science and Pollution Research, 27(7), 7244-7255."/>
+<meta name="citation_reference" content="Kimiagari, S., Mahbobi, M., &amp; Toolsee, T. (2023). Attracting and retaining FDI: Africa gas and oil sector. Resources Policy, 80, 103219."/>
+<meta name="citation_reference" content="Kisswani, K. M., &amp; Zaitouni, M. (2023). Does FDI affect environmental degradation? Examining pollution haven and pollution halo hypotheses using ARDL modelling. Journal of the Asia Pacific Economy, 28(4), 1406-1432."/>
+<meta name="citation_reference" content="Geda, A., &amp; Yimer, A. (2023). What Drives Foreign Direct Investment into Africa? Insights from a New Analytical Classification of Countries as Fragile, Factor-Driven, or Investment-Driven. Journal of the Knowledge Economy, 1-36."/>
+<meta name="citation_reference" content="Mert, M., &amp; Caglar, A. E. (2020). Testing pollution haven and pollution halo hypotheses for Turkey: a new perspective. Environmental Science and Pollution Research, 27, 32933-32943."/>
+<meta name="citation_reference" content="Nadeem, A. M., Ali, T., Khan, M. T., &amp; Guo, Z. (2020). Relationship between inward FDI and environmental degradation for Pakistan: an exploration of pollution haven hypothesis through ARDL approach. Environmental Science and Pollution Research, 27, 15407-15425."/>
+<meta name="citation_reference" content="Nguyen-Thanh, N., Chin, K. H., &amp; Nguyen, V. (2022). Does the pollution halo hypothesis exist in this “better” world? The evidence from STIRPAT model. Environmental Science and Pollution Research, 29(58), 87082-87096."/>
+<meta name="citation_reference" content="Padhan, L., &amp; Bhat, S. (2024). Pollution haven or pollution halo in the context of emerging economies: a two-step system GMM approach. Environment, Development and Sustainability, 1-21."/>
+<meta name="citation_reference" content="Qian-qian, Z. H. A. N. G., Rui, Z. H. A. N. G., &amp; Yi-bing, Z. H. A. N. G. (2019). The influence mechanism of foreign direct investment on environmental quality under environmental regulation: a comparative study based on different industry groups. Commercial Research, 61(5), 61."/>
+<meta name="citation_reference" content="Quang, P. T. (2023). Assessment of impacts of inward and outward FDIs on environmental protection in Vietnam. Journal of Environmental Assessment Policy and Management, 25(02), 2350009."/>
+<meta name="citation_reference" content="Raihan, A. (2023). Exploring environmental Kuznets curve and pollution haven hypothesis in Bangladesh: the impact of foreign direct investment. Journal of Environmental Science and Economics, 2(1), 25-36."/>
+<meta name="citation_reference" content="Ren, X., An, Y., He, F., &amp; Goodell, J. W. (2024). Do FDI inflows bring both capital and CO2 emissions? Evidence from non-parametric modelling for the G7 countries. International Review of Economics &amp; Finance, 95, 103420."/>
+<meta name="citation_reference" content="Shao, Q., Wang, X., Zhou, Q., &amp; Balogh, L. (2019). Pollution haven hypothesis revisited: a comparison of the BRICS and MINT countries based on VECM approach. Journal of Cleaner Production, 227, 724-738."/>
+<meta name="citation_reference" content="Shrestha, N. (2020). Detecting multicollinearity in regression analysis. American Journal of Applied Mathematics and Statistics, 8(2), 39-42."/>
+<meta name="citation_reference" content="Sun, H., Liu, Z., &amp; Chen, Y. (2020). Foreign direct investment and manufacturing pollution emissions: A perspective from heterogeneous environmental regulation. Sustainable Development, 28(5), 1376-1387."/>
+<meta name="citation_reference" content="Tayyar, A. E. (2022). Testing pollution haven and pollution halo hypotheses for the energy sector: evidence from Turkey. Business and Economics Research Journal, 13(3), 367-383."/>
+<meta name="citation_reference" content="Uche, E., Omoke, P. C., Silva-Opuala, C., &amp; Al-Faryan, M. A. S. (2024). Re-estimating the pollution haven–halo hypotheses for Brazil via a machine learning procedure. Journal of International Development, 36(2), 1274-1292."/>
+<meta name="citation_reference" content="UNCTAD(2023). World Investment Report 2023—INVESTING IN SUSTAINABLE ENERGY FOR ALL. United Nations Conference on Trade and Development, New York and Geneva, 2023. Available at https://unctad.org/system/files/official-document/wir2023_en.pdf"/>
+<meta name="citation_reference" content="Wang, H., &amp; Liu, H. (2019). Foreign direct investment, environmental regulation, and environmental pollution: an empirical study based on threshold effects for different Chinese regions. Environmental Science and Pollution Research, 26, 5394-5409."/>
+<meta name="citation_reference" content="Wang, F., Ye, L., Zeng, X., &amp; Zhang, W. (2024). The impact of FDI on energy conservation and emission reduction performance: A FDI quality perspective. Heliyon, 10(4)."/>
+<meta name="citation_reference" content="Xie, R., &amp; Zhang, S. (2024). Re-examining the impact of global foreign direct investment (FDI) inflows on haze pollution—considering the moderating mechanism of environmental regulation. Energy &amp; Environment, 35(6), 3186-3209."/>
+<meta name="citation_reference" content="Xu, C., Zhao, W., Zhang, M., &amp; Cheng, B. (2021). Pollution haven or halo? The role of the energy transition in the impact of FDI on SO2 emissions. Science of the Total Environment, 763, 143002."/>
+<meta name="citation_reference" content="Yang, T., Dong, Q., Du, Q., Du, M., Dong, R., &amp; Chen, M. (2021). Carbon dioxide emissions and Chinese OFDI: From the perspective of carbon neutrality targets and environmental management of home country. Journal of Environmental Management, 295, 113120."/>
+<meta name="citation_reference" content="Zheng, J., Assad, U., Kamal, M. A., &amp; Wang, H. (2024). Foreign direct investment and carbon emissions in China:“Pollution Haven” or “Pollution Halo”? Evidence from the NARDL model. Journal of Environmental Planning and Management, 67(3), 662-687."/>
+<link rel="alternate" type="application/atom+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/rss2">
+<link rel="alternate" type="application/atom+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://journals.e-palli.com/home/index.php/ajee/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://journals.e-palli.com/home/index.php/ajee/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://journals.e-palli.com/home/lib/pkp/styles/fontawesome/fontawesome.css?v=3.4.0.10" type="text/css" /><link rel="stylesheet" href="https://journals.e-palli.com/home/plugins/generic/citationStyleLanguage/css/citationStyleLanguagePlugin.css?v=3.4.0.10" type="text/css" />
+	
+</head>
+<body class="pkp_page_article pkp_op_view" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXNKXX79"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+						
+ <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+				<div class="pkp_site_name_wrapper" style="padding: 10px 0;">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+
+					
+					<div class="pkp_site_name">
+																<a style="color: darkblue;" href="						https://journals.e-palli.com/home/index.php/ajee/index
+					" class="is_text">American Journal of Environmental Economics</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about">
+					Home
+				</a>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about">
+					About
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/c4p">
+										Call For Paper
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/Authors_Guide">
+										Author's Guidelines
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/ethics">
+										Publication Ethics
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/copyright-licence">
+										Copyright and Licensing 
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about">
+					Journal Policy
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/review-policy">
+										Review Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/access-policy">
+										Open Access Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/archiving-policy">
+										Archiving Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/advertise-policy">
+										Advertising Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/refund-policy">
+										Refund Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/waiver-policy">
+										Waiver Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/retraction-policy">
+										Retractions and Withdrawal Policy
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about">
+					APA Referencing
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://apastyle.apa.org/instructional-aids/reference-examples.pdf">
+										APA Reference Guide
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://apastyle.apa.org/instructional-aids/reference-guide.pdf">
+										APA Reference Format
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about/editorialTeam">
+					Editorial Team
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://docs.google.com/forms/d/e/1FAIpQLSfXRLVNHDR8RRQeh-H_WI7wtfKoxNfa4yXKh1RZ-4nDZA8emg/viewform">
+										Join the Editorial Team
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/about/submissions">
+					Submissions
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/files/publications/guides.pdf">
+										Submission Guidelines
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/assets/Manuscript_Template.docx">
+										Manuscript Template
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/issue/current">
+					Issues
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/issue/current">
+										Current
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/issue/archive">
+										Archives
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/indexed">
+					Indexing
+				</a>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/APC">
+					APC
+				</a>
+							</li>
+			</ul>
+
+				
+
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://journals.e-palli.com/home/index.php/ajee/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+							
+						</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+						    <div class="headerA">
+    						    <a href="https://journals.e-palli.com" class="headerFlex">
+									<div class="logoA">
+										<div class="logoB">
+											<img src="https://journals.e-palli.com/images/logo.png" />
+										</div>
+										<div>
+											<h3>E-Palli<br>Publishers</h3>
+										</div> 
+									</div>
+								</a>
+                                <div class="hover_menu">
+                                    <ul class="hoverA">
+                                        <li>
+                                            <a href="https://journals.e-palli.com/">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://journals.e-palli.com/about">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+											<ul class="hide_menu">
+												<li><a href="https://e-palli.com">About E-Palli</a></li>
+												<li><a href="https://journals.e-palli.com/list">List of Journals</a></li>
+												<li><a href="https://journals.e-palli.com/apc">Article Processing Charges (APC)</a></li>
+												<li><a href="https://journals.e-palli.com/auth-guide">Authors Guidelines</a></li>
+												<li><a href="https://journals.e-palli.com/pub-ethics">Publication Ethics</a></li>
+												<li><a href="https://journals.e-palli.com/privacy">Privacy Statement</a></li>
+											</ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://journals.e-palli.com/journals">Journals<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+											<ul class="hide_menu">
+							<li>
+								<a href="/categories/engTech.php">Engineering &amp; Technology</a>
+					<ul>
+						<li><h3>Engineering &amp; Technology</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajaset">American Journal of Agricultural Science, Engineering, and Technology (AJASET)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajsts">American Journal of Smart Technology and Solutions (AJSTS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajirb">American Journal of IR 4.0 and Beyond (AJIRB)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajise">American Journal of Innovation in Science and Engineering (AJISE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajgt">American Journal of Geospatial Technology (AJGT)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajet">American Journal of Education and Technology (AJET)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajfst">American Journal of Food Science and Technology (AJFST)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ijm">International Journal of Metaverse (IJM)</a></li>
+					</ul>
+							</li>
+							<li>
+								<a href="/categories/agriScience.php">Agricultural Science</a>
+					<ul>
+						<li><h3>Agricultural Science</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajaset">American Journal of Agricultural Science, Engineering, and Technology (AJASET)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajaas">American Journal of Aquaculture and Animal Science (AJAAS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajlsi">American Journal of Life Science and Innovation (AJLSI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajfst">American Journal of Food Science and Technology (AJFST)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajbb">American Journal of Bioscience and Bioinformatics (AJBB)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajpp">American Journal of Plant Pathology (AJPP)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ijpf">International Journal of Precision Farming (IJPF)</a></li>
+					</ul>
+							</li>
+							<li>
+								<a href="/categories/eClimate.php">Environment &amp; Climate</a>
+					<ul>
+						<li><h3>Environment &amp; Climate</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajgt">American Journal of Geospatial Technology (AJGT)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajec">American Journal of Environment and Climate (AJEC)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajenr">American Journal of Energy and Natural Resources (AJENR)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajee">American Journal of Environmental Economics (AJEE)</a></li> 
+						<li><a href="https://journals.e-palli.com/home/index.php/ijsrd">International Journal of Sustainable Rural Development (IJSRD)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajexd">American Journal of Environmental Experience Design (AJEXD)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ijfe">International Journal of Forestry and Ecosystem (IJFE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jwc">Journal of Wildlife Conservation (JWC)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jad">Journal of Anthropology and Development (JAD)</a></li>
+					</ul>
+							</li>
+							<li>
+								<a href="/categories/ecoBusiness.php">Business &amp; Economics</a>
+					<ul>
+						<li><h3>Business &amp; Economics</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajebi">American Journal of Economics and Business Innovation (AJEBI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajase">American Journal of Applied Statistics and Economics (AJASE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajee">American Journal of Environmental Economics (AJEE)</a></li> 
+						<li><a href="https://journals.e-palli.com/home/index.php/ajfti">American Journal of Financial Technology and Innovation (AJFTI)</a></li>
+					</ul>
+							</li>
+							<li>
+								<a href="/categories/social.php">Arts &amp; Social Science</a>
+					<ul>
+						<li><h3>Arts &amp; Social Science</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajsde">American Journal of Social Development and Entrepreneurship (AJSDE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajahs">American Journal of Arts and Human Science (AJAHS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajywe">American Journal of Youth and Women Empowerment (AJYWE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajsl">American Journal of Society and Law (AJSL)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajase">American Journal of Applied Statistics and Economics (AJASE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajet">American Journal of Education and Technology (AJET)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajds">American Journal of Development Studies (AJDS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajth">American Journal of Tourism and Hospitality (AJTH)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jans">Journal of Arts and Natural Science (JANS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jpsir">Journal of Political Science and International Relationship (JPSIR)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jnll">Journal of Natural Language and Linguistics (JNLL)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jirp">Journal of International Relations and Peace (JIRP)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/hci">History and Cultural Innovation (HCI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jse">Journal of Student and Education (JSE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jrsmps">Journal of Rural Sociology, Microfinance, and Poverty Studies (JRSMPS)</a></li>
+					</ul>
+							</li>
+
+
+							<li>
+								<a href="/categories/multidisciplinary.php">Multidisciplinary</a>
+					<ul>
+						<li><h3>Multidisciplinary</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajmri">American Journal of Multidisciplinary Research and Innovation (AJMRI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajiri">American Journal of Interdisciplinary Research and Innovation (AJIRI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajase">American Journal of Applied Statistics and Economics (AJASE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ari">Applied Research and Innovation (ARI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jir">Journal of Innovative Research (JIR)</a></li>
+					</ul>
+							</li>
+							<li>
+								<a href="/categories/mediScience.php">Medical Science &amp; Others</a>
+					<ul>
+						<li><h3>Medical Science &amp; Others</h3></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajmsi">American Journal of Medical Science and Innovation (AJMSI)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajase">American Journal of Applied Statistics and Economics (AJASE)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajcp">American Journal of Chemistry and Pharmacy (AJCP)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajpehs">American Journal of Physical Education and Health Science (AJPEHS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ajhp">American Journal of Human Psychology (AJHP)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ijvmas">International Journal of Veterinary Medicine and Animal Science (IJVMAS)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/ijrud">International Journal of Rural and Urban Development (IJRUD)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jipm">Journal of Insect and Pest Management (JIPM)</a></li>
+						<li><a href="https://journals.e-palli.com/home/index.php/jpp">Journal of Policy and Planning (JPP)</a></li>
+					</ul>
+							</li>
+						</ul>
+                                        </li>
+                                        <li class="logins blink">
+                                            <a href="https://journals.e-palli.com/list">Submission</a>
+                                        </li>
+										<li>
+                                            <a href="https://journals.e-palli.com/webinar">Webinar</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://journals.e-palli.com/contact">Contact</a>
+                                        </li>
+                                    </ul>
+
+                                    	<ul id="" class=" pkp_nav_list">
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/user/register">
+					Register
+				</a>
+							</li>
+								<li class="">
+				<a href="https://journals.e-palli.com/home/index.php/ajee/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+                                </div>
+        					</div>
+        					<hr class="headerHR">
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header>
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_article">
+			<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://journals.e-palli.com/home/index.php/ajee/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://journals.e-palli.com/home/index.php/ajee/issue/archive">
+				Archives
+			</a>
+			<span class="separator">/</span>
+		</li>
+					<li>
+				<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+					Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+				</a>
+				<span class="separator">/</span>
+			</li>
+				<li class="current" aria-current="page">
+			<span aria-current="page">
+									Research Articles
+							</span>
+		</li>
+	</ol>
+</nav>
+	
+		  	 <article class="obj_article_details">
+
+		
+	<h1 class="page_title">
+		Foreign Direct Investment, Institutional Quality, and Environmental Pollution in  Selected African Countries
+	</h1>
+
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<section class="item authors">
+					<h2 class="pkp_screen_reader">Authors</h2>
+					<ul class="authors">
+											<li>
+							<span class="name">
+								Kehinde John Akomolafe
+							</span>
+															<span class="affiliation">
+									Department of Economics, Afe Babaola University, Ado Ekiti, Nigeria
+																	</span>
+																																		</li>
+										</ul>
+				</section>
+			
+																	<section class="item doi">
+					<h2 class="label">
+												DOI:
+					</h2>
+					<span class="value">
+						<a href="https://doi.org/10.54536/ajee.v3i1.3939">
+							https://doi.org/10.54536/ajee.v3i1.3939
+						</a>
+					</span>
+				</section>
+			
+
+									<section class="item keywords">
+				<h2 class="label">
+										Keywords:
+				</h2>
+				<span class="value">
+											Africa, 											Environment, 											FDI, 											PCSE, 											PHH, 											Pollution									</span>
+			</section>
+			
+										<section class="item abstract">
+					<h2 class="label">Abstract</h2>
+					<p>African countries increasingly attract foreign direct investment as they strive for economic growth and development. However, there have been concerns over the rising effects of FDI on pollution. These concerns are rooted in the potential for industrial activities associated with FDI to have adverse environmental impacts. Hence, the needs to tackle the problem of pollution cannot be overemphasized. One way to do this is by strengthening the quality of African institutions. This study was conducted to examine the effects of institutional quality and FDI on environmental pollution in selected African countries. Environmental pollution was measured using CO2 emission.The result of the PCSE estimator showed that institutional quality had negative effects on environmental pollution, but the effect of FDI was positive and insignificant. Also, the effect of moderating effect showed that institutional quality has the potential to reduce the positive effect of FDI on environmental pollution. It was recommended that African governments should strengthen the quality of their institutions by strengthening environmental governance frameworks.</p>
+				</section>
+			
+			
+
+										
+				<section class="item downloads_chart">
+					<h2 class="label">
+						Downloads
+					</h2>
+					<div class="value">
+						<canvas class="usageStatsGraph" data-object-type="Submission" data-object-id="3939"></canvas>
+						<div class="usageStatsUnavailable" data-object-type="Submission" data-object-id="3939">
+							Download data is not yet available.
+						</div>
+					</div>
+				</section>
+			
+																			
+										<section class="item references">
+					<h2 class="label">
+						References
+					</h2>
+					<div class="value">
+																					<p>Abbas, S. J., Iqbal, A., Hussain, M. M., &amp; Anwar, A. (2023). The environmental cost of FDI and spatial implications of CO2 emissions in Sub-Saharan Africa. Environmental Science and Pollution Research, 30(29), 74441-74451. </p>
+															<p>Abdo, A. B., Li, B., Zhang, X., Lu, J., &amp; Rasheed, A. (2020). Influence of FDI on environmental pollution in selected Arab countries: a spatial econometric analysis perspective. Environmental Science and Pollution Research, 27, 28222-28246. </p>
+															<p>Achuo, E., &amp; Ojong, N. (2024). Foreign direct investment, economic growth and environmental quality in Africa: revisiting the pollution haven and environmental Kuznets curve hypotheses. Journal of Economic Studies. <a href="https://doi.org/10.1108/JES-02-2024-0065">https://doi.org/10.1108/JES-02-2024-0065</a> </p>
+															<p>Adeel-Farooq, R. M., Riaz, M. F., &amp; Ali, T. (2021). Improving the environment begins at home: Revisiting the links between FDI and environment. Energy, 215, 119150. </p>
+															<p>Adegboye, F. B., &amp; Okorie, U. E. (2023). Fragility of FDI flows in sub-Saharan Africa region: does the paradox persist?. Future Business Journal, 9(1), 8. </p>
+															<p>Akbulut, H., &amp; Yereli, A. B. (2023). A new look at the pollution halo hypothesis: The role of environmental policy stringency. Estudios de economía, 50(1), 31-54. </p>
+															<p>Assamoi, G. R., Wang, S., Liu, Y., &amp; Gnangoin, Y. T. B. (2020). Investigating the pollution haven hypothesis in Cote d’Ivoire: evidence from autoregressive distributed lag (ARDL) approach with structural breaks. Environmental Science and Pollution Research, 27, 16886-16899. </p>
+															<p>Baajike, F. B., Ntsiful, E., Afriyie, A. B., &amp; Oteng-Abayie, E. F. (2022). The effects of economic growth, trade liberalization, and financial development on environmental sustainability in West Africa. The role of institutions. Research in Globalization, 5, 100104. </p>
+															<p>Balsalobre-Lorente, D., Gokmenoglu, K. K., Taspinar, N., &amp; Cantos-Cantos, J. M. (2019). An approach to the pollution haven and pollution halo hypotheses in MINT countries. Environmental Science and Pollution Research, 26, 23010-23026. </p>
+															<p>Bashir, M. F. (2022). Discovering the evolution of Pollution Haven Hypothesis: A literature review and future research agenda. Environmental Science and Pollution Research, 29(32), 48210-48232. </p>
+															<p>Boamah, V., Tang, D., Zhang, Q., &amp; Zhang, J. (2023). Do FDI Inflows into African Countries Impact Their CO2 Emission Levels?. Sustainability, 15(4), 3131. </p>
+															<p>Capitanio, L., Ratte, S., Gautier, S., &amp; Josseran, L. (2024). Impact of air pollution on mortality: Geo-epidemiological study in French-speaking Africa. Heliyon, Volume 10, Issue 20, 30 October 2024, e39473 </p>
+															<p>Chirilus, A., &amp; Costea, A. (2023). The effect of FDI on environmental degradation in Romania: Testing the pollution Haven hypothesis. Sustainability, 15(13), 10733. </p>
+															<p>Crescenzi, R., Ganau, R., &amp; Storper, M. (2022). Does foreign investment hurt job creation at home? The geography of outward FDI and employment in the USA. Journal of economic geography, 22(1), 53-79. </p>
+															<p>Demena, B. A., &amp; Afesorgbor, S. K. (2020). The effect of FDI on environmental emissions: Evidence from a meta-analysis. Energy policy, 138, 111192. </p>
+															<p>Duan, Y., &amp; Jiang, X. (2021). Pollution haven or pollution halo? A Re-evaluation on the role of multinational enterprises in global CO2 emissions. Energy Economics, 97, 105181. </p>
+															<p>Fu, L., Long, R., Sun, X., &amp; Wang, Y. (2024). Foreign direct investment and pollution emissions: a perspective from heterogeneous environmental regulation. Management of Environmental Quality: An International Journal, 35(2), 378-401. </p>
+															<p>Gharnit, S., Bouzahzah, M., &amp; Soussane, J. A. (2019). Foreign direct investment and pollution havens: evidence from African countries. Archives of Business Research, 7(12), 244-252. </p>
+															<p>Hao, Y., Wu, Y., Wu, H., &amp; Ren, S. (2020). How do FDI and technical innovation affect environmental quality? Evidence from China. Environmental Science and Pollution Research, 27, 7835-7850. </p>
+															<p>Fahad, S., Bai, D., Liu, L., &amp; Baloch, Z. A. (2022). Heterogeneous impacts of environmental regulation on foreign direct investment: do environmental regulation affect FDI decisions?. Environmental Science and Pollution Research, 29(4), 5092-5104. </p>
+															<p>Fisher, S., Bellinger, D. C., Cropper, M. L., Kumar, P., Binagwaho, A., Koudenoukpo, J. B., ... &amp; Landrigan, P. J. (2021). Air pollution and development in Africa: impacts on health, the economy, and human capital. The Lancet Planetary Health, 5(10), e681-e688. </p>
+															<p>Jiang, L., Zhou, H. F., Bai, L., &amp; Zhou, P. (2018). Does foreign direct investment drive environmental degradation in China? An empirical study based on air quality index from a spatial perspective. Journal of cleaner production, 176, 864-872. </p>
+															<p>Khan, M. A., &amp; Ozturk, I. (2020). Examining foreign direct investment and environmental pollution linkage in Asia. Environmental Science and Pollution Research, 27(7), 7244-7255. </p>
+															<p>Kimiagari, S., Mahbobi, M., &amp; Toolsee, T. (2023). Attracting and retaining FDI: Africa gas and oil sector. Resources Policy, 80, 103219. </p>
+															<p>Kisswani, K. M., &amp; Zaitouni, M. (2023). Does FDI affect environmental degradation? Examining pollution haven and pollution halo hypotheses using ARDL modelling. Journal of the Asia Pacific Economy, 28(4), 1406-1432. </p>
+															<p>Geda, A., &amp; Yimer, A. (2023). What Drives Foreign Direct Investment into Africa? Insights from a New Analytical Classification of Countries as Fragile, Factor-Driven, or Investment-Driven. Journal of the Knowledge Economy, 1-36. </p>
+															<p>Mert, M., &amp; Caglar, A. E. (2020). Testing pollution haven and pollution halo hypotheses for Turkey: a new perspective. Environmental Science and Pollution Research, 27, 32933-32943. </p>
+															<p>Nadeem, A. M., Ali, T., Khan, M. T., &amp; Guo, Z. (2020). Relationship between inward FDI and environmental degradation for Pakistan: an exploration of pollution haven hypothesis through ARDL approach. Environmental Science and Pollution Research, 27, 15407-15425. </p>
+															<p>Nguyen-Thanh, N., Chin, K. H., &amp; Nguyen, V. (2022). Does the pollution halo hypothesis exist in this “better” world? The evidence from STIRPAT model. Environmental Science and Pollution Research, 29(58), 87082-87096. </p>
+															<p>Padhan, L., &amp; Bhat, S. (2024). Pollution haven or pollution halo in the context of emerging economies: a two-step system GMM approach. Environment, Development and Sustainability, 1-21. </p>
+															<p>Qian-qian, Z. H. A. N. G., Rui, Z. H. A. N. G., &amp; Yi-bing, Z. H. A. N. G. (2019). The influence mechanism of foreign direct investment on environmental quality under environmental regulation: a comparative study based on different industry groups. Commercial Research, 61(5), 61. </p>
+															<p>Quang, P. T. (2023). Assessment of impacts of inward and outward FDIs on environmental protection in Vietnam. Journal of Environmental Assessment Policy and Management, 25(02), 2350009. </p>
+															<p>Raihan, A. (2023). Exploring environmental Kuznets curve and pollution haven hypothesis in Bangladesh: the impact of foreign direct investment. Journal of Environmental Science and Economics, 2(1), 25-36. </p>
+															<p>Ren, X., An, Y., He, F., &amp; Goodell, J. W. (2024). Do FDI inflows bring both capital and CO2 emissions? Evidence from non-parametric modelling for the G7 countries. International Review of Economics &amp; Finance, 95, 103420. </p>
+															<p>Shao, Q., Wang, X., Zhou, Q., &amp; Balogh, L. (2019). Pollution haven hypothesis revisited: a comparison of the BRICS and MINT countries based on VECM approach. Journal of Cleaner Production, 227, 724-738. </p>
+															<p>Shrestha, N. (2020). Detecting multicollinearity in regression analysis. American Journal of Applied Mathematics and Statistics, 8(2), 39-42. </p>
+															<p>Sun, H., Liu, Z., &amp; Chen, Y. (2020). Foreign direct investment and manufacturing pollution emissions: A perspective from heterogeneous environmental regulation. Sustainable Development, 28(5), 1376-1387. </p>
+															<p>Tayyar, A. E. (2022). Testing pollution haven and pollution halo hypotheses for the energy sector: evidence from Turkey. Business and Economics Research Journal, 13(3), 367-383. </p>
+															<p>Uche, E., Omoke, P. C., Silva-Opuala, C., &amp; Al-Faryan, M. A. S. (2024). Re-estimating the pollution haven–halo hypotheses for Brazil via a machine learning procedure. Journal of International Development, 36(2), 1274-1292. </p>
+															<p>UNCTAD(2023). World Investment Report 2023—INVESTING IN SUSTAINABLE ENERGY FOR ALL. United Nations Conference on Trade and Development, New York and Geneva, 2023. Available at <a href="https://unctad.org/system/files/official-document/wir2023_en.pdf">https://unctad.org/system/files/official-document/wir2023_en.pdf</a> </p>
+															<p>Wang, H., &amp; Liu, H. (2019). Foreign direct investment, environmental regulation, and environmental pollution: an empirical study based on threshold effects for different Chinese regions. Environmental Science and Pollution Research, 26, 5394-5409. </p>
+															<p>Wang, F., Ye, L., Zeng, X., &amp; Zhang, W. (2024). The impact of FDI on energy conservation and emission reduction performance: A FDI quality perspective. Heliyon, 10(4). </p>
+															<p>Xie, R., &amp; Zhang, S. (2024). Re-examining the impact of global foreign direct investment (FDI) inflows on haze pollution—considering the moderating mechanism of environmental regulation. Energy &amp; Environment, 35(6), 3186-3209. </p>
+															<p>Xu, C., Zhao, W., Zhang, M., &amp; Cheng, B. (2021). Pollution haven or halo? The role of the energy transition in the impact of FDI on SO2 emissions. Science of the Total Environment, 763, 143002. </p>
+															<p>Yang, T., Dong, Q., Du, Q., Du, M., Dong, R., &amp; Chen, M. (2021). Carbon dioxide emissions and Chinese OFDI: From the perspective of carbon neutrality targets and environmental management of home country. Journal of Environmental Management, 295, 113120. </p>
+															<p>Zheng, J., Assad, U., Kamal, M. A., &amp; Wang, H. (2024). Foreign direct investment and carbon emissions in China:“Pollution Haven” or “Pollution Halo”? Evidence from the NARDL model. Journal of Environmental Planning and Management, 67(3), 662-687. </p>
+																		</div>
+				</section>
+			
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+										<div class="item cover_image">
+					<div class="sub_item">
+													<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+								<img src="https://journals.e-palli.com/home/public/journals/24/cover_issue_164_en_US.jpg" alt="">
+							</a>
+											</div>
+				</div>
+			
+										<div class="item galleys">
+					<h2 class="pkp_screen_reader">
+						Downloads
+					</h2>
+					<ul class="value galleys_links">
+													<li>
+								
+	
+													
+
+<a class="obj_galley_link pdf" href="https://journals.e-palli.com/home/index.php/ajee/article/view/3939/1922">
+		
+	Download PDF
+
+	</a>
+							</li>
+											</ul>
+				</div>
+						
+						<div class="item published">
+				<section class="sub_item">
+					<h2 class="label">
+						Published
+					</h2>
+					<div class="value">
+																			<span>2024-12-07</span>
+																	</div>
+				</section>
+							</div>
+			
+						
+										<div class="item issue">
+
+											<section class="sub_item">
+							<h2 class="label">
+								Issue
+							</h2>
+							<div class="value">
+								<a class="title" href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+									Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+								</a>
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Section
+							</h2>
+							<div class="value">
+								Research Articles
+							</div>
+						</section>
+					
+									</div>
+			
+																					
+										<div class="item copyright">
+					<h2 class="label">
+						License
+					</h2>
+																										<p>Copyright (c) 2024 Kehinde John Akomolafe</p>
+														<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+																
+				</div>
+			
+				<div class="item citation">
+		<section class="sub_item citation_display">
+			<h2 class="label">
+				How to Cite
+			</h2>
+			<div class="value">
+				<div id="citationOutput" role="region" aria-live="polite">
+					<div class="csl-bib-body">
+  <div class="csl-entry">Kehinde John, A. (2024). Foreign Direct Investment, Institutional Quality, and Environmental Pollution in Selected African Countries. <i>American Journal of Environmental Economics</i>, <i>3</i>(1), 130-136. <a href="https://doi.org/10.54536/ajee.v3i1.3939">https://doi.org/10.54536/ajee.v3i1.3939</a></div>
+</div>
+				</div>
+				<div class="citation_formats">
+					<button class="citation_formats_button label" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+						More Citation Formats
+					</button>
+					<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+						<ul class="citation_formats_styles">
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/acm-sig-proceedings?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/acm-sig-proceedings?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										ACM
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/acs-nano?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/acs-nano?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										ACS
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/apa?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/apa?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										APA
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										ABNT
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/chicago-author-date?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/chicago-author-date?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										Chicago
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/harvard-cite-them-right?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/harvard-cite-them-right?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										Harvard
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/ieee?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/ieee?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										IEEE
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/modern-language-association?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/modern-language-association?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										MLA
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										Turabian
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/vancouver?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/vancouver?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										Vancouver
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/ama?submissionId=3939&amp;publicationId=3935&amp;issueId=164"
+											data-load-citation
+											data-json-href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/get/ama?submissionId=3939&amp;publicationId=3935&amp;issueId=164&amp;return=json"
+									>
+										AMA
+									</a>
+								</li>
+													</ul>
+													<div class="label">
+								Download Citation
+							</div>
+							<ul class="citation_formats_styles">
+																	<li>
+										<a href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/download/ris?submissionId=3939&amp;publicationId=3935&amp;issueId=164">
+											<span class="fa fa-download"></span>
+											Endnote/Zotero/Mendeley (RIS)
+										</a>
+									</li>
+																	<li>
+										<a href="https://journals.e-palli.com/home/index.php/ajee/citationstylelanguage/download/bibtex?submissionId=3939&amp;publicationId=3935&amp;issueId=164">
+											<span class="fa fa-download"></span>
+											BibTeX
+										</a>
+									</li>
+															</ul>
+											</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+
+	<div id="articlesBySimilarityList">
+			<h3>
+			<a name="articlesBySimilarity">Similar Articles</a>
+		</h3>
+		<ul>
+											
+				<li>
+											Enongene Betrand Ewane,
+											Etah Ivo Ewane,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/1414">
+						Foreign Direct Investment, Trade Openness and Environmental Degradation in SSA Countries. A Quadratic Modeling and Turning Point Approach
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/80">
+						American Journal of Environmental Economics: Vol. 2 No. 1 (2023): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											ThankGod Ochai,
+											Obed Kohol Niambe,
+											Evalistus Nwankwo,
+											Shaibu Ochoche,
+											Peter Adio Ibukunoluwa,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/2651">
+						Environmental Impacts of Effluent Discharge from A Rice Processing Factory on River Benue’s Water Quality in Makurdi, Nigeria
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+						American Journal of Environmental Economics: Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Kehinde John Akomolafe,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/3966">
+						Natural Resource Endowment, Human Capital Development, and Economic Growth in  Selected African Countries
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+						American Journal of Environmental Economics: Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Ehsanullah,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/2214">
+						A Panel Examination of Economic Growth and Environmental Pressure in the Middle East and South Asia
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/80">
+						American Journal of Environmental Economics: Vol. 2 No. 1 (2023): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Howard C. C.,
+											Howard I. C,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/6394">
+						Time Series Analysis of Air Quality Trends in Urban Nigeria: A Case Study of Lagos
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/337">
+						American Journal of Environmental Economics: Vol. 5 No. 1 (2026): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Godspower Oke Omokaro,
+											Vivian Idama,
+											Edmond Osemwengie Airueghian,
+											Ikioukenigha Michael,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/2593">
+						Water Resources, Pollution, Integrated Management and Practices in Nigeria – An Overview
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+						American Journal of Environmental Economics: Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Muhammed Adamu Obomeghie,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/7478">
+						The Power of Social Justice in Combating Poverty in Africa: An Empirical Perspective
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/439">
+						American Journal of Environmental Economics: Vol. 5 No. 2 (2026): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Richard Mulenga,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/6190">
+						The Future of Carbon Offset Markets in Africa: Towards Equitable Climate Finance
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/259">
+						American Journal of Environmental Economics: Vol. 4 No. 1 (2025): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Paul Obokparo Ewubare,
+											Sarah Onosteike Aliyu,
+											Ikioukenigha Michael,
+											Joy Osebhajimede Ejakhaegbe,
+											Justice Obomejero,
+											Sunday Osarodion Okoro,
+											Oluwaseyi Joseph Olukayode,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/3261">
+						An Academic Review on Heavy Metals in the Environment: Effects on Soil, Plants Human Health, and Possible Solutions
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+						American Journal of Environmental Economics: Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+					</a>
+									</li>
+											
+				<li>
+											Ibiam Prince Amauche,
+											Amadi  Chiubeze,
+											Ezeamama  Liliam,
+											Ani Grace O.,
+											Ifegbo  Arinze N,
+										<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/347">
+						Comparative Study of Phytochemical Properties of Some Bio-Material (African Yam Bean, Pigeon Pea, Pawpaw Leaf Powder, Moringa Seed and Pawpaw Seed)
+					</a>
+					,
+					<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/45">
+						American Journal of Environmental Economics: Vol. 1 No. 1 (2022): American Journal of Environmental Economics
+					</a>
+									</li>
+					</ul>
+		<p id="articlesBySimilarityPages">
+				<div class="cmp_pagination" aria-label="View additional pages">
+				<span class="current">
+			1-10 of 31
+		</span>
+					<a class="next" href="https://journals.e-palli.com/home/index.php/ajee/article/view/3939?articlesBySimilarityPage=2">Next</a>
+			</div>
+		</p>
+		<p id="articlesBySimilaritySearch">
+						You may also <a href="https://journals.e-palli.com/home/index.php/ajee/search/search?query=Africa%20Environment%20FDI%20PCSE%20PHH%20Pollution">start an advanced similarity search</a> for this article.
+		</p>
+	</div>
+<div id="articlesBySameAuthorList">
+						<h3>Most read articles by the same author(s)</h3>
+
+			<ul>
+																													<li>
+													Kehinde John Akomolafe,
+												<a href="https://journals.e-palli.com/home/index.php/ajee/article/view/3966">
+							Natural Resource Endowment, Human Capital Development, and Economic Growth in  Selected African Countries
+						</a>,
+						<a href="https://journals.e-palli.com/home/index.php/ajee/issue/view/164">
+							American Journal of Environmental Economics: Vol. 3 No. 1 (2024): American Journal of Environmental Economics
+						</a>
+					</li>
+							</ul>
+			<div id="articlesBySameAuthorPages">
+				
+			</div>
+			</div>
+
+
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_custom" id="customblock-Newsletter">
+	<h2 class="title pkp_screen_reader"></h2>
+	<div class="content">
+		
+	</div>
+</div>
+<div class="pkp_block block_make_submission">
+	<h2 class="pkp_screen_reader">
+		Make a Submission
+	</h2>
+
+	<div class="content">
+		<a class="block_make_submission_link" href="https://journals.e-palli.com/home/index.php/ajee/about/submissions">
+			Make a Submission
+		</a>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-manuscript-template">
+	<h2 class="title pkp_screen_reader"></h2>
+	<div class="content">
+		
+	</div>
+</div>
+<div class="pkp_block block_information">
+	<h2 class="title">Information</h2>
+	<div class="content">
+		<ul>
+							<li>
+					<a href="https://journals.e-palli.com/home/index.php/ajee/information/readers">
+						For Readers
+					</a>
+				</li>
+										<li>
+					<a href="https://journals.e-palli.com/home/index.php/ajee/information/authors">
+						For Authors
+					</a>
+				</li>
+										<li>
+					<a href="https://journals.e-palli.com/home/index.php/ajee/information/librarians">
+						For Librarians
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-indexing">
+	<h2 class="title pkp_screen_reader"></h2>
+	<div class="content">
+		
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-Facebook">
+	<h2 class="title pkp_screen_reader"></h2>
+	<div class="content">
+		
+	</div>
+</div>
+<div class="pkp_block block_web_feed">
+	<h2 class="title">Latest publications</h2>
+	<div class="content">
+		<ul>
+			<li>
+				<a href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/atom">
+					<img src="https://journals.e-palli.com/home/lib/pkp/templates/images/atom.svg" alt="Atom logo">
+				</a>
+			</li>
+			<li>
+				<a href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/rss2">
+					<img src="https://journals.e-palli.com/home/lib/pkp/templates/images/rss20_logo.svg" alt="RSS2 logo">
+				</a>
+			</li>
+			<li>
+				<a href="https://journals.e-palli.com/home/index.php/ajee/gateway/plugin/WebFeedGatewayPlugin/rss">
+					<img src="https://journals.e-palli.com/home/lib/pkp/templates/images/rss10_logo.svg" alt="RSS1 logo">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div style="background: #C2E9F2;">
+  <footer>
+    <div class="fullDiv">
+      <div class="containDiv">
+        <div class="singleDiv">
+          <aside id="text-1">
+            <div class="imgDiv">
+              <div>
+                <a href="https://journals.e-palli.com"><img src="https://journals.e-palli.com/images/logo.png" style="height: 55px; width: 60px" alt="E-Palli"></a>
+              </div>
+              <p style="line-height: 25px; text-align: justify;"> E-Palli Limited Liability Company (LLC) is registered in Delaware, United States of America, provides publication solutions for journals, conference proceedings, books, and special issues. E-palli publishes articles in a number of double-blind peer-reviewed international journals that emphasize research, development, application, and innovation. <br> This OJS site and its metadata are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International Licence</a>
+              </p>
+            </div>
+          </aside>
+        </div>
+        <div class="midDiv">
+          <aside id="categories-1" class="widget widget_categories">
+            <!--<h4 class="widget-title">Categories</h4>-->
+            <ul>
+              <li style="list-style: none; padding: 10px;" class="f-con">
+                <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://e-palli.com/" style="border-bottom: 2px dotted darkblue;">E-Palli Home</a>
+              </li>
+              <li style="list-style: none; padding: 10px;" class="f-con">
+                <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/apc">Article Processing Charges</a>
+              </li>
+              <li style="list-style: none; padding: 10px;" class="cat-item-none f-con">
+                <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/about">About us</a>
+              </li>
+              <li style="list-style: none; padding: 10px;" class="cat-item-none f-con">
+                <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/contact">Contact us</a>
+              </li>
+            <li style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/auth-guide">Authors Guideline</a>
+            </li>
+            </ul>
+          </aside>
+        </div>
+        <div class="midDiv">
+          <aside id="categories-1" class="widget widget_categories">
+            <ul>
+              <li  style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/journals/new">List of New Journals</a>
+            </li>
+            <li style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/list">List of Journals</a>
+            </li>
+            <li style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/indexing">List of Indexing</a>
+            </li>
+			
+            <li style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/privacy">Privacy Statement</a>
+            </li>
+            <li style="list-style: none; padding: 10px;" class="f-con">
+              <a style="text-decoration: none; font-weight: bold; color: darkgreen;" onMouseOver="this.style.color='darkblue'" onMouseOut="this.style.color='darkgreen'" href="https://journals.e-palli.com/pub-ethics">Publication Ethics</a>
+            </li>
+            </ul>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <hr class="foot-dif" style="border-color: lightblue;">
+  <section>
+    <div class="bfSection">
+      <div class="bmSection">
+        <div class="bCopy"> Copyright © 2024, E-Palli LLC </div>
+        <div class="privacyDiv">
+          <ul class="widget-social" style="display: flex; padding: 0">
+		  <li style="list-style: none; padding: 5px 10px; margin: 10px; border-radius: 50%; background-color: darkgreen; color: white; font-size: 18px; width: 30px;" onMouseOver="this.style.color='darkblue'">
+                <a href="https://www.facebook.com/E-Palli-LLC-102007135759499" target="_blank">
+                  <i style="color: white" class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li style="list-style: none; padding: 5px 7px; margin: 10px; border-radius: 50%; background-color: darkgreen; color: white; font-size: 18px; width: 30px;" onMouseOver="this.style.color='darkblue'">
+                <a href="https://www.linkedin.com/company/e-palli-publishers/" target="_blank">
+                  <i style="color: white" class="fa fa-linkedin"></i>
+                </a>
+              </li>
+			  <li style="list-style: none; padding: 5px 7px; margin: 10px; border-radius: 50%; background-color: darkgreen; color: white; font-size: 18px; width: 30px;" onMouseOver="this.style.color='darkblue'"><a href="https://www.instagram.com/epalli.publishers/" target="_blank"><i style="color: white" class="fa fa-instagram"></i></a></li>
+			  <li style="list-style: none; padding: 5px 7px; margin: 10px; border-radius: 50%; background-color: darkgreen; color: white; font-size: 18px; width: 30px;" onMouseOver="this.style.color='darkblue'"><a href="https://www.youtube.com/@E-PalliPublishers" target="_blank"><i style="color: white" class="fa fa-youtube"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://journals.e-palli.com/home/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/plugins/themes/default/js/lib/popper/popper.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/plugins/themes/default/js/lib/bootstrap/util.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/plugins/themes/default/js/main.js?v=3.4.0.10" type="text/javascript"></script><script src="https://journals.e-palli.com/home/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.4.0.10" type="text/javascript"></script><script src="https://d3js.org/d3.v4.js?v=3.4.0.10" type="text/javascript"></script><script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js?v=3.4.0.10" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.data = pkpUsageStats.data || {};pkpUsageStats.data.Submission = pkpUsageStats.data.Submission || {};pkpUsageStats.data.Submission[3939] = {"data":{"2024":{"12":"16"},"2025":{"1":"19","2":"10","3":"14","4":"18","5":"6","6":"17","7":"16","8":"15","9":"14","10":"3","11":"7","12":"23"},"2026":{"1":"19","2":"8","3":"20","4":"12","5":"35","6":"12","7":"32","8":"12","9":"6"}},"label":"All Downloads","color":"79,181,217","total":334};</script><script src="https://journals.e-palli.com/home/lib/pkp/js/lib/Chart.min.js?v=3.4.0.10" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.locale = pkpUsageStats.locale || {};pkpUsageStats.locale.months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];pkpUsageStats.config = pkpUsageStats.config || {};pkpUsageStats.config.chartType = "line";</script><script src="https://journals.e-palli.com/home/lib/pkp/js/usage-stats-chart.js?v=3.4.0.10" type="text/javascript"></script>
+
+
+
+</body>
+</html>

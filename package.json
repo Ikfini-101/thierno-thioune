@@ -10,12 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.6",
-    "@astrojs/mdx": "^4.3.13",
-    "@astrojs/sitemap": "^3.6.1",
-    "@astrojs/starlight": "^0.37.2",
-    "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.16.9",
+    "@astrojs/check": "^0.9.10",
+    "@astrojs/mdx": "^4.3.14",
+    "@astrojs/sitemap": "^3.7.4",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^5.18.2",
     "astro-compressor": "^1.2.0",
     "clipboard": "^2.0.11",
     "globby": "^16.1.0",
@@ -27,7 +26,7 @@
     "rimraf": "^6.1.2",
     "sharp": "^0.34.5",
     "sharp-ico": "^0.1.5",
-    "tailwindcss": "^4.1.17"
+    "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.11",

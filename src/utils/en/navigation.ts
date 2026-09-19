@@ -1,34 +1,32 @@
-// An array of links for navigation bar
 const navBarLinks = [
   { name: "Home", url: "/en" },
-  { name: "Products", url: "/en/products" },
-  { name: "Impact", url: "/en/impact" },
-  { name: "Technology", url: "/en/technology" },
-  { name: "Traceability", url: "/en/traceability" },
+  { name: "Research & Publications", url: "/en/research" },
+  { name: "Media & Talks", url: "/en/media" },
+  { name: "Projects & Consultancy", url: "/en/projects" },
   { name: "Contact", url: "/en/contact" },
 ];
-// An array of links for footer
+
 const footerLinks = [
   {
-    section: "TooluBaay GIE",
+    section: "Academic",
     links: [
-      { name: "Home", url: "/en" },
-      { name: "Products & Impact", url: "/en/products" },
-      { name: "Traceability Module", url: "/en/traceability" },
+      { name: "Biography", url: "/en/#bio" },
+      { name: "Publications", url: "/en/research" },
+      { name: "Conferences", url: "/en/media" },
     ],
   },
   {
-    section: "Partners",
+    section: "Professional",
     links: [
-      { name: "Become a Partner", url: "/en/contact" },
-      { name: "Technology", url: "/en/technology" },
+      { name: "Projects", url: "/en/projects" },
+      { name: "Contact Me", url: "/en/contact" },
     ],
   },
 ];
-// An object of links for social icons
+
 const socialLinks = {
-  facebook: "https://www.facebook.com/",
-  x: "https://twitter.com/",
+  linkedin: "#",
+  x: "#",
 };
 
 export default {

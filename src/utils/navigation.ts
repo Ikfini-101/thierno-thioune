@@ -1,33 +1,23 @@
 const navBarLinks = [
   { name: "Accueil", url: "/" },
-  { name: "Produits", url: "/products" },
-  { name: "Impact", url: "/impact" },
-  { name: "Technologie", url: "/technology" },
-  { name: "Traçabilité", url: "/traceability" },
-  { name: "Contact", url: "/contact" },
+  { name: "Profil & Parcours", url: "/profil" },
+  { name: "Publications", url: "/publications" },
 ];
 
 const footerLinks = [
   {
-    section: "GIE TooluBaay",
+    section: "Parcours",
     links: [
       { name: "Accueil", url: "/" },
-      { name: "Produits & Impact", url: "/products" },
-      { name: "Module Traçabilité", url: "/traceability" },
+      { name: "Profil & Parcours", url: "/profil" },
+      { name: "Publications Scientifiques", url: "/publications" },
     ],
-  },
-  {
-    section: "Partenaires",
-    links: [
-      { name: "Devenir Partenaire", url: "/contact" },
-      { name: "Technologie", url: "/technology" },
-    ],
-  },
+  }
 ];
 
 const socialLinks = {
-  facebook: "https://www.facebook.com/",
-  x: "https://twitter.com/",
+  linkedin: "#", // User will provide this later
+  x: "#",
 };
 
 export default {

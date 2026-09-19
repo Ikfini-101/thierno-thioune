@@ -1,14 +1,6 @@
 ---
 const { class: className } = Astro.props;
 ---
-<img
-  src="/logos/logo-Toolubaay-without-background.png"
-  alt="TooluBaay Logo"
-  class={`${className || "h-auto w-24"} block dark:hidden object-contain`}
-/>
-<img
-  src="/logos/logo-blanc.png"
-  alt="TooluBaay Logo"
-  class={`${className || "h-auto w-24"} hidden dark:block object-contain`}
-/>
-
+<span class={`${className || "text-xl font-bold"} text-primary-500 dark:text-accent-400 uppercase tracking-wider`}>
+  Prof. Thierno Thioune
+</span>

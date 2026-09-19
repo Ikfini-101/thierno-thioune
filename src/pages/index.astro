@@ -1,140 +1,31 @@
 ---
-// Import the necessary components
 import MainLayout from "@/layouts/MainLayout.astro";
 import HeroSection from "@components/sections/landing/HeroSection.astro";
-import HeroSectionAlt from "@components/sections/landing/HeroSectionAlt.astro";
-import PhotoCarousel from "@components/sections/landing/PhotoCarousel.astro";
-import CEOSection from "@components/sections/landing/CEOSection.astro";
-import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro";
-import FeaturesNavs from "@components/sections/features/FeaturesNavs.astro";
-import TestimonialsSection from "@components/sections/testimonials/TestimonialsSection.astro";
-import FAQ from "@components/sections/misc/FAQ.astro";
-import WorldVisionThrive from "@components/WorldVisionThrive.astro";
-
-import heroImage from "@images/peanut_farm_hero.png";
-import faqs from "@data/fr/faqs.json";
-import features from "@data/fr/features.json";
-import featureImage from "@images/women_cooperative.png";
-import tools from "@images/image_genere.png";
-import { getRelativeLocaleUrl } from "astro:i18n";
-
-const avatarSrcs: Array<string> = [
-  "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-4.0.3&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80",
-];
-
-// Toggle this flag to true once the World Vision partnership is officially signed
-const SHOW_WORLD_VISION_BLOCK = false;
+import profImage from "@assets/images/photo TT.png";
 ---
 
-<MainLayout lang="fr">
-
-
+<MainLayout title="Accueil" lang="fr">
   <HeroSection
-    title=`Valoriser les Femmes et les Jeunes, <span class="text-yellow-500 dark:text-yellow-400">Transformer l'Agriculture</span>`
-    subTitle="TooluBaay structure la filière arachide au Sénégal, fournissant aux GIE de femmes et de jeunes en milieu rural des outils numériques, des formations durables et un accès au marché pour une qualité premium."
-    primaryBtn="Découvrir nos produits"
-    primaryBtnURL={getRelativeLocaleUrl("fr", "products")}
-    secondaryBtn="Devenir Partenaire"
-    secondaryBtnURL={getRelativeLocaleUrl("fr", "contact")}
+    title="Professeur Thierno Thioune"
+    subTitle="Agrégé des Facultés d'Economie à l'Université Cheikh Anta Diop"
+    primaryBtn="Voir mes publications"
+    primaryBtnURL="/publications"
+    secondaryBtn="Mon profil"
+    secondaryBtnURL="/profil"
     withReview={false}
-    avatars={avatarSrcs}
-    rating=`<span class="font-bold">4.8</span> / 5`
-    starCount={4}
-    reviews=`À partir de plus de <span class="font-bold">12,8k</span> avis`
-    src={heroImage}
-    alt="GIE de culture d'arachide au Sénégal"
+    src={profImage}
+    alt="Professeur Thierno Thioune"
   />
 
-  {SHOW_WORLD_VISION_BLOCK && <WorldVisionThrive />}
-
-  <PhotoCarousel
-    title="La Vie de nos GIE en Images"
-    subTitle="Découvrez en images le quotidien de nos producteurs et de nos GIE partenaires."
-  />
-
-  <CEOSection />
-
-  <FeaturesGeneral
-    title="Cultiver l'Impact & l'Innovation"
-    subTitle="Chez TooluBaay, nous relevons les défis uniques de l'agriculture familiale au Sénégal. En combinant solutions AgriTech et transformation locale, nous renforçons les GIE de femmes et de jeunes, améliorons la résilience des cultures et livrons une pâte d'arachide premium conforme aux normes HACCP pour une qualité premium."
-    src={featureImage}
-    alt="Transformation de la pâte d'arachide par des femmes locales"
-    features={features}
-  />
-
-  <FeaturesNavs
-    title=`L'intelligence <span class="text-yellow-500 dark:text-yellow-400">AgriTech</span> au service des champs.`
-    tabs={[
-      {
-        heading: "Suivi Agroclimatique",
-        content:
-          "Notre application mobile fournit des prévisions météorologiques agricoles localisées et vocales dans les langues locales (wolof, pulaar, mandingue), aidant les paysans à planifier au mieux leurs récoltes.",
-        svg: "tools",
-        src: tools,
-        alt: "Application mobile TooluBaay",
-        first: true,
-      },
-      {
-        heading: "Chatbot IA Vocal",
-        content:
-          "Un conseiller agricole virtuel interactif (en cours de développement) conçu pour répondre en langues locales aux questions des producteurs pour démocratiser l'accès au conseil.",
-        svg: "dashboard",
-        src: tools,
-        alt: "Schéma du conseiller IA vocal",
-        second: true,
-      },
-      {
-        heading: "Diagnostic de Maladies par Photo",
-        content:
-          "Grâce à la reconnaissance d'images par IA, le producteur prend une photo d'une feuille malade et reçoit instantanément un diagnostic et des suggestions de traitement bio.",
-        svg: "house",
-        src: tools,
-        alt: "Prise de photo d'une feuille malade",
-      },
-    ]}
-  />
-
-  <TestimonialsSection
-    title="Restructurer les Chaînes de Valeur Rurales"
-    subTitle="Soutenir la souveraineté alimentaire nationale par la juste rémunération des femmes et des jeunes et l'innovation."
-    testimonials={[
-      {
-        content:
-          "TooluBaay a complètement changé notre quotidien. Grâce au suivi météo et au prix d'achat garanti, les revenus de notre GIE ont augmenté, et nous sommes fières de voir notre pâte d'arachide vendue dans des pots premium.",
-        author: "M. K.",
-        role: "Présidente | GIE K*** (D***)",
-        avatarSrc:
-          "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=320&auto=format&fit=facearea&facepad=2&w=320&h=320&q=80",
-      },
-    ]}
-    statistics={[
-      {
-        count: "120+",
-        description:
-          "femmes et jeunes accompagnés dans nos pôles agricoles",
-      },
-      {
-        count: "+25%",
-        description:
-          "de hausse de revenus pour les GIE partenaires en Phase 1",
-      },
-      {
-        count: "21+",
-        description:
-          "GIE de femmes et de jeunes structurés dans les pôles agricoles",
-      },
-      {
-        count: "100%",
-        description: "naturelle, garantie sans aflatoxine et conforme aux normes HACCP pour une qualité premium",
-      },
-    ]}
-  />
-
-  <FAQ title="Questions<br />fréquemment posées" faqs={faqs} />
-
-  <HeroSectionAlt
-    title="Soutenir l'Autonomie & l'Impact"
-    subTitle="Rejoignez-nous pour étendre la chaîne de valeur inclusive de transformation d'arachide au Sénégal."
-    url={getRelativeLocaleUrl("fr", "contact")}
-  />
+  <section id="bio" class="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
+    <div class="glass-panel">
+      <h2 class="mb-6 text-3xl font-bold text-primary-500">Biographie</h2>
+      <p class="mb-4 text-lg leading-relaxed text-neutral-700 dark:text-neutral-300">
+        Le Professeur Thierno Thioune est un éminent spécialiste en sciences économiques, professeur titulaire et agrégé. Il mène des recherches approfondies sur le développement économique, les politiques publiques et les dynamiques de croissance en Afrique et à l'international.
+      </p>
+      <p class="text-lg leading-relaxed text-neutral-700 dark:text-neutral-300">
+        Son engagement académique et son expertise de haut niveau en font un acteur incontournable du paysage intellectuel et institutionnel, ayant notamment dirigé le Centre de Recherches Économiques Appliquées (CREA).
+      </p>
+    </div>
+  </section>
 </MainLayout>

@@ -5,113 +5,54 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  /* https://tailwindcss.com/docs/colors#customizing-your-colors */
-  --color-*: initial;
   --color-transparent: transparent;
   --color-current: currentColor;
   --color-black: #000;
   --color-white: #fff;
 
-  --color-gray-50: oklch(0.985 0.002 247.839);
-  --color-gray-100: oklch(0.967 0.003 264.542);
-  --color-gray-200: oklch(0.928 0.006 264.531);
-  --color-gray-300: oklch(0.872 0.01 258.338);
-  --color-gray-400: oklch(0.707 0.022 261.325);
-  --color-gray-500: oklch(0.551 0.027 264.364);
-  --color-gray-600: oklch(0.446 0.03 256.802);
-  --color-gray-700: oklch(0.373 0.034 259.733);
-  --color-gray-800: oklch(0.278 0.033 256.848);
-  --color-gray-900: oklch(0.21 0.034 264.665);
-  --color-gray-950: oklch(0.13 0.028 261.692);
+  --color-primary-50: #f4f6f9;
+  --color-primary-100: #e8edf2;
+  --color-primary-200: #d1dbdf;
+  --color-primary-300: #b5c4d0;
+  --color-primary-400: #7c98aa;
+  --color-primary-500: #1a365d; /* Navy */
+  --color-primary-600: #152c4b;
+  --color-primary-700: #11233d;
+  --color-primary-800: #0d1a2d;
+  --color-primary-900: #0a1322;
 
-  --color-indigo-50: oklch(0.962 0.018 272.314);
-  --color-indigo-100: oklch(0.93 0.034 272.788);
-  --color-indigo-200: oklch(0.87 0.065 274.039);
-  --color-indigo-300: oklch(0.785 0.115 274.713);
-  --color-indigo-400: oklch(0.673 0.182 276.935);
-  --color-indigo-500: oklch(0.585 0.233 277.117);
-  --color-indigo-600: oklch(0.511 0.262 276.966);
-  --color-indigo-700: oklch(0.457 0.24 277.023);
-  --color-indigo-800: oklch(0.398 0.195 277.366);
-  --color-indigo-900: oklch(0.359 0.144 278.697);
-  --color-indigo-950: oklch(0.257 0.09 281.288);
+  --color-accent-50: #fcfaf5;
+  --color-accent-100: #f9f5eb;
+  --color-accent-200: #f1e6cd;
+  --color-accent-300: #e7d6ab;
+  --color-accent-400: #d3b469;
+  --color-accent-500: #c5a03d; /* Gold */
+  --color-accent-600: #b18f36;
+  --color-accent-700: #93772c;
+  --color-accent-800: #755f24;
+  --color-accent-900: #5f4d1c;
 
-  --color-neutral-50: oklch(0.985 0 0);
-  --color-neutral-100: oklch(0.97 0 0);
-  --color-neutral-200: oklch(0.922 0 0);
-  --color-neutral-300: oklch(0.87 0 0);
-  --color-neutral-400: oklch(0.708 0 0);
-  --color-neutral-500: oklch(0.556 0 0);
-  --color-neutral-600: oklch(0.439 0 0);
-  --color-neutral-700: oklch(0.371 0 0);
-  --color-neutral-800: oklch(0.269 0 0);
-  --color-neutral-900: oklch(0.205 0 0);
-  --color-neutral-950: oklch(0.145 0 0);
-
-  --color-yellow-50: #faf6f0;
-  --color-yellow-100: #f3e9dd;
-  --color-yellow-200: #e6d3c1;
-  --color-yellow-300: #d6b79d;
-  --color-yellow-400: #c39673;
-  --color-yellow-500: #ab6834;
-  --color-yellow-600: #8d4f29;
-  --color-yellow-700: #713c22;
-  --color-yellow-800: #5d311f;
-  --color-yellow-900: #4d2d16;
-  --color-yellow-950: #2c160b;
-
-  --color-orange-50: #f2faf1;
-  --color-orange-100: #e1f3df;
-  --color-orange-200: #c4e7c0;
-  --color-orange-300: #9bd295;
-  --color-orange-400: #6bb463;
-  --color-orange-500: #43953b;
-  --color-orange-600: #307b26;
-  --color-orange-700: #255e1d;
-  --color-orange-800: #1e4a18;
-  --color-orange-900: #193d14;
-  --color-orange-950: #0c1f0a;
-
-  --color-red-50: oklch(0.971 0.013 17.38);
-  --color-red-100: oklch(0.936 0.032 17.717);
-  --color-red-200: oklch(0.885 0.062 18.334);
-  --color-red-300: oklch(0.808 0.114 19.571);
-  --color-red-400: oklch(0.704 0.191 22.216);
-  --color-red-500: oklch(0.637 0.237 25.331);
-  --color-red-600: oklch(0.577 0.245 27.325);
-  --color-red-700: oklch(0.505 0.213 27.518);
-  --color-red-800: oklch(0.444 0.177 26.899);
-  --color-red-900: oklch(0.396 0.141 25.723);
-  --color-red-950: oklch(0.258 0.092 26.042);
-
-  --color-zinc-50: oklch(0.985 0 0);
-  --color-zinc-100: oklch(0.967 0.001 286.375);
-  --color-zinc-200: oklch(0.92 0.004 286.32);
-  --color-zinc-300: oklch(0.871 0.006 286.286);
-  --color-zinc-400: oklch(0.705 0.015 286.067);
-  --color-zinc-500: oklch(0.552 0.016 285.938);
-  --color-zinc-600: oklch(0.442 0.017 285.786);
-  --color-zinc-700: oklch(0.37 0.013 285.805);
-  --color-zinc-800: oklch(0.274 0.006 286.033);
-  --color-zinc-900: oklch(0.21 0.006 285.885);
-  --color-zinc-950: oklch(0.141 0.005 285.823);
+  /* Keep base grays for text */
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f5f5f5;
+  --color-neutral-200: #e5e5e5;
+  --color-neutral-300: #d4d4d4;
+  --color-neutral-400: #a3a3a3;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #525252;
+  --color-neutral-700: #404040;
+  --color-neutral-800: #262626;
+  --color-neutral-900: #171717;
+  --color-neutral-950: #0a0a0a;
 }
 
-/*
-  The default border color has changed to `currentColor` in Tailwind CSS v4,
-  so we've added these compatibility styles to make sure everything still
-  looks the same as it did with Tailwind CSS v3.
-
-  If we ever want to remove these styles, we need to add an explicit border
-  color utility to any element that depends on these defaults.
-*/
 @layer base {
   *,
   ::after,
   ::before,
   ::backdrop,
   ::file-selector-button {
-    border-color: var(--color-gray-200, currentColor);
+    border-color: var(--color-neutral-200, currentColor);
   }
 
   button:not(:disabled),
@@ -120,82 +61,13 @@
   }
 }
 
-/* --- PREMIUM CLASSIC GLASSMORPHISM & AVIF BACKGROUND SYSTEM --- */
-
+/* Institutional Clean Backgrounds */
 body {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), 
-                    url('../../images/women_cooperative_background.avif') !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
+  background-color: var(--color-white);
+  color: var(--color-neutral-800);
 }
 
 .dark body {
-  background-image: linear-gradient(rgba(15, 15, 17, 0.65), rgba(15, 15, 17, 0.65)), 
-                    url('../../images/women_cooperative_background.avif') !important;
-}
-
-/* Polished Glassmorphism panels for page sections */
-main section,
-main .glass-panel {
-  background: rgba(255, 255, 255, 0.5) !important;
-  backdrop-filter: blur(20px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
-  border: 1px solid rgba(255, 255, 255, 0.4) !important;
-  border-radius: 2rem !important;
-  box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.06), 
-              inset 0 1px 0 0 rgba(255, 255, 255, 0.25) !important;
-  padding: 3rem 2rem !important;
-  margin-top: 3rem !important;
-  margin-bottom: 3rem !important;
-  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
-}
-
-/* Soft hover effect to make the interface feel responsive and alive */
-main section:hover,
-main .glass-panel:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 15px 50px -10px rgba(0, 0, 0, 0.08), 
-              inset 0 1px 0 0 rgba(255, 255, 255, 0.3) !important;
-}
-
-/* Dark mode adjustments for glassmorphism */
-.dark main section,
-.dark main .glass-panel {
-  background: rgba(24, 24, 27, 0.55) !important;
-  border: 1px solid rgba(255, 255, 255, 0.08) !important;
-  box-shadow: 0 15px 50px -15px rgba(0, 0, 0, 0.5), 
-              inset 0 1px 0 0 rgba(255, 255, 255, 0.05) !important;
-}
-
-.dark main section:hover,
-.dark main .glass-panel:hover {
-  box-shadow: 0 20px 60px -10px rgba(0, 0, 0, 0.65), 
-              inset 0 1px 0 0 rgba(255, 255, 255, 0.07) !important;
-}
-
-/* Make sure text elements remain highly legible over the glassmorphic panels */
-main section h1,
-main section h2,
-main section h3 {
-  color: var(--color-gray-900, #111) !important;
-  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5) !important;
-}
-
-.dark main section h1,
-.dark main section h2,
-.dark main section h3 {
-  color: var(--color-white, #fff) !important;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5) !important;
-}
-
-main section p,
-main section li {
-  color: var(--color-gray-800, #222) !important;
-}
-
-.dark main section p,
-.dark main section li {
-  color: var(--color-gray-200, #e4e4e7) !important;
+  background-color: var(--color-primary-900);
+  color: var(--color-neutral-100);
 }

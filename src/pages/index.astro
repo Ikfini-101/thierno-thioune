@@ -1,17 +1,86 @@
----
+﻿---
 import MainLayout from "@/layouts/MainLayout.astro";
 import HeroSection from "@components/sections/landing/HeroSection.astro";
 import profImage from "@/assets/images/photo_TT.png";
+
+const experiences = [
+  {
+    title: "Secrétaire Permanent",
+    organization: "Comité paritaire public-privé des ZES (Ministère de l'Économie)",
+    date: "2026 - Présent",
+    description: "Coordination stratégique et pilotage du Comité paritaire chargé du suivi et de la mise en œuvre des Zones économiques spéciales."
+  },
+  {
+    title: "Conseiller Économique",
+    organization: "Sonaged SA",
+    date: "2025 - Présent",
+    description: "Planification financière stratégique, optimisation de la structure de capital et intégration des critères ESG."
+  },
+  {
+    title: "Membre du Comité Scientifique",
+    organization: "Direction de la Prévision et des Études Économiques (DPEE)",
+    date: "2022 - 2025",
+    description: "Conseil stratégique sur les politiques économiques, évaluation de projets d'investissement public et prévisions macroéconomiques."
+  },
+  {
+    title: "Conseiller au Comité d'Orientation",
+    organization: "Observatoire de la Qualité des Services Financiers (OQSF)",
+    date: "2022 - 2024",
+    description: "Participation aux décisions stratégiques de régulation du secteur financier, développement d'indicateurs de performance."
+  },
+  {
+    title: "Directeur",
+    organization: "Centre de Recherches Économiques Appliquées (CREA), UCAD",
+    date: "2022 - 2024",
+    description: "Direction stratégique, gestion budgétaire, transformation numérique et développement de partenariats avec BCEAO et Ministères."
+  },
+  {
+    title: "Expert Senior",
+    organization: "Commission Économique pour l'Afrique (CEA), Nations Unies",
+    date: "2023",
+    description: "Étude sur les chaînes de valeur régionales en Afrique de l'Ouest (ZLECAF). Analyse des mécanismes de financement pour le développement régional."
+  },
+  {
+    title: "Expert Senior en Finance Durable",
+    organization: "Banque Ouest Africaine de Développement (BOAD)",
+    date: "2019",
+    description: "Conception d'instruments de tarification carbone au Sénégal et développement du premier mécanisme de financement carbone national."
+  },
+  {
+    title: "Directeur des Études",
+    organization: "CREFDES",
+    date: "2017 - 2021",
+    description: "Formation de cadres, consulting institutionnel en développement économique et capacité-building."
+  }
+];
+
+const education = [
+  {
+    title: "Agrégation en Sciences Économiques",
+    institution: "CAMES, Dakar",
+    date: "2025"
+  },
+  {
+    title: "Post-Doctorat en Politiques Économiques",
+    institution: "Sciences Po Paris",
+    date: "2023"
+  },
+  {
+    title: "Doctorat (Ph.D) en Sciences Économiques",
+    institution: "Université de Montpellier 1 & UCAD",
+    date: "2015"
+  }
+];
 ---
 
-<MainLayout title="Accueil" lang="fr">
+<MainLayout title="Accueil | Professeur Thierno Thioune" lang="fr">
   <HeroSection
     title="Professeur Thierno Thioune"
-    subTitle="Agrégé des Facultés d'Economie à l'Université Cheikh Anta Diop"
+    subTitle="Agrégé des Facultés d'Économie à l'Université Cheikh Anta Diop"
     primaryBtn="Voir mes publications"
     primaryBtnURL="/publications"
     secondaryBtn="Mon profil"
-    secondaryBtnURL="/profil"
+    secondaryBtnURL="#profil"
     withReview={false}
     src={profImage}
     alt="Professeur Thierno Thioune"
@@ -31,6 +100,77 @@ import profImage from "@/assets/images/photo_TT.png";
         <p class="text-lg leading-relaxed text-neutral-800 dark:text-neutral-200">
           Son engagement académique et son expertise de haut niveau en font un acteur incontournable du paysage intellectuel et institutionnel, ayant notamment dirigé le Centre de Recherches Économiques Appliquées (CREA).
         </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="profil" class="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
+    <!-- Timeline Expériences -->
+    <div class="mt-10">
+      <h2 class="text-3xl font-bold text-neutral-800 dark:text-neutral-200 mb-10 flex items-center gap-3">
+        <div class="w-12 h-12 rounded-2xl bg-white/70 dark:bg-black/40 border border-white/50 dark:border-white/10 shadow-sm backdrop-blur-md flex items-center justify-center text-primary-600 dark:text-primary-400">
+          <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        </div>
+        Gouvernance et Institutions
+      </h2>
+      
+      <div class="space-y-8 relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-neutral-300 before:to-transparent dark:before:via-neutral-700">
+        
+        {experiences.map((exp, index) => (
+          <div class={`relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group ${index === 0 ? 'is-active' : ''}`}>
+            <div class={`flex items-center justify-center w-10 h-10 rounded-full border border-white shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 dark:border-neutral-900 ${index === 0 ? 'bg-primary-500 text-white' : 'bg-neutral-200 text-neutral-500 dark:bg-neutral-800'}`}>
+              <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
+            </div>
+            <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-6 rounded-3xl border border-white/80 dark:border-white/10 bg-white/50 dark:bg-black/30 backdrop-blur-3xl shadow-[0_8px_30px_rgb(0,0,0,0.04),inset_0_1px_1px_rgba(255,255,255,1),inset_0_-1px_1px_rgba(255,255,255,0.3)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4),inset_0_1px_1px_rgba(255,255,255,0.1)] transition-all duration-300 hover:bg-white/70 dark:hover:bg-black/40 hover:-translate-y-1 relative overflow-hidden group/card">
+              <!-- Liquid shine sweep effect on hover -->
+              <div class="absolute top-0 -inset-full h-full w-1/2 z-0 block transform -skew-x-12 bg-gradient-to-r from-transparent via-white/40 to-transparent opacity-0 transition duration-1000 group-hover/card:opacity-100 group-hover/card:translate-x-[200%] dark:via-white/5"></div>
+              
+              <div class="flex items-center justify-between mb-1 relative z-10">
+                <div class="font-bold text-neutral-800 dark:text-neutral-200">{exp.title}</div>
+                <span class="text-xs font-bold text-neutral-500 dark:text-neutral-400 bg-white/60 dark:bg-black/40 px-3 py-1 rounded-full border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">{exp.date}</span>
+              </div>
+              <div class="text-sm font-bold text-primary-500 mb-2 relative z-10">{exp.organization}</div>
+              <div class="text-sm text-neutral-700 dark:text-neutral-300 relative z-10">{exp.description}</div>
+            </div>
+          </div>
+        ))}
+        
+      </div>
+    </div>
+
+    <!-- Timeline Formations -->
+    <div class="mt-20">
+      <h2 class="text-3xl font-bold text-neutral-800 dark:text-neutral-200 mb-10 flex items-center gap-3">
+        <div class="w-12 h-12 rounded-2xl bg-white/70 dark:bg-black/40 border border-white/50 dark:border-white/10 shadow-sm backdrop-blur-md flex items-center justify-center text-primary-600 dark:text-primary-400">
+          <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        </div>
+        Formation Académique
+      </h2>
+      
+      <div class="grid sm:grid-cols-2 gap-6">
+        {education.map(edu => (
+          <div class="flex flex-col p-6 rounded-3xl border border-white/80 dark:border-white/10 bg-white/50 dark:bg-black/30 backdrop-blur-3xl shadow-[0_8px_30px_rgb(0,0,0,0.04),inset_0_1px_1px_rgba(255,255,255,1),inset_0_-1px_1px_rgba(255,255,255,0.3)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4),inset_0_1px_1px_rgba(255,255,255,0.1)] transition-all duration-300 hover:bg-white/70 dark:hover:bg-black/40 hover:-translate-y-1 relative overflow-hidden group/card">
+            
+            <!-- Liquid shine sweep effect on hover -->
+            <div class="absolute top-0 -inset-full h-full w-1/2 z-0 block transform -skew-x-12 bg-gradient-to-r from-transparent via-white/40 to-transparent opacity-0 transition duration-1000 group-hover/card:opacity-100 group-hover/card:translate-x-[200%] dark:via-white/5"></div>
+
+            <div class="flex justify-between items-center mb-4 relative z-10">
+              <div class="w-12 h-12 flex justify-center items-center rounded-full bg-white/70 dark:bg-black/40 border border-white/50 dark:border-white/10 text-primary-600 dark:text-primary-400 shadow-sm backdrop-blur-md">
+                <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+              </div>
+              <span class="text-sm font-bold text-neutral-500 dark:text-neutral-400 bg-white/60 dark:bg-black/40 px-3 py-1 rounded-full border border-white/40 dark:border-white/10 shadow-sm backdrop-blur-md">{edu.date}</span>
+            </div>
+            <h3 class="text-xl font-bold text-neutral-800 dark:text-white mb-2 relative z-10">
+              {edu.title}
+            </h3>
+            <p class="text-sm font-bold text-neutral-600 dark:text-neutral-300 relative z-10">
+              {edu.institution}
+            </p>
+          </div>
+        ))}
       </div>
     </div>
   </section>

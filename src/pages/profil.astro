@@ -1,6 +1,75 @@
----
+﻿---
 import MainLayout from "@/layouts/MainLayout.astro";
 import profImage from "@/assets/images/TT_UEMOA.png";
+
+const experiences = [
+  {
+    title: "Secrétaire Permanent",
+    organization: "Comité paritaire public-privé des ZES (Ministère de l'Économie)",
+    date: "2026 - Présent",
+    description: "Coordination stratégique et pilotage du Comité paritaire chargé du suivi et de la mise en œuvre des Zones économiques spéciales."
+  },
+  {
+    title: "Conseiller Économique",
+    organization: "Sonaged SA",
+    date: "2025 - Présent",
+    description: "Planification financière stratégique, optimisation de la structure de capital et intégration des critères ESG."
+  },
+  {
+    title: "Membre du Comité Scientifique",
+    organization: "Direction de la Prévision et des Études Économiques (DPEE)",
+    date: "2022 - 2025",
+    description: "Conseil stratégique sur les politiques économiques, évaluation de projets d'investissement public et prévisions macroéconomiques."
+  },
+  {
+    title: "Conseiller au Comité d'Orientation",
+    organization: "Observatoire de la Qualité des Services Financiers (OQSF)",
+    date: "2022 - 2024",
+    description: "Participation aux décisions stratégiques de régulation du secteur financier, développement d'indicateurs de performance."
+  },
+  {
+    title: "Directeur",
+    organization: "Centre de Recherches Économiques Appliquées (CREA), UCAD",
+    date: "2022 - 2024",
+    description: "Direction stratégique, gestion budgétaire, transformation numérique et développement de partenariats avec BCEAO et Ministères."
+  },
+  {
+    title: "Expert Senior",
+    organization: "Commission Économique pour l'Afrique (CEA), Nations Unies",
+    date: "2023",
+    description: "Étude sur les chaînes de valeur régionales en Afrique de l'Ouest (ZLECAF). Analyse des mécanismes de financement pour le développement régional."
+  },
+  {
+    title: "Expert Senior en Finance Durable",
+    organization: "Banque Ouest Africaine de Développement (BOAD)",
+    date: "2019",
+    description: "Conception d'instruments de tarification carbone au Sénégal et développement du premier mécanisme de financement carbone national."
+  },
+  {
+    title: "Directeur des Études",
+    organization: "CREFDES",
+    date: "2017 - 2021",
+    description: "Formation de cadres, consulting institutionnel en développement économique et capacité-building."
+  }
+];
+
+const education = [
+  {
+    title: "Agrégation en Sciences Économiques",
+    institution: "CAMES, Dakar",
+    date: "2025"
+  },
+  {
+    title: "Post-Doctorat en Politiques Économiques",
+    institution: "Sciences Po Paris",
+    date: "2023"
+  },
+  {
+    title: "Doctorat (Ph.D) en Sciences Économiques",
+    institution: "Université de Montpellier 1 & UCAD",
+    date: "2015"
+  }
+];
 ---
 
 <MainLayout title="Profil et Parcours | Professeur Thierno Thioune" lang="fr">
@@ -11,65 +80,83 @@ import profImage from "@/assets/images/TT_UEMOA.png";
       </div>
       <div class="md:col-span-2">
         <h1 class="text-3xl font-bold text-neutral-800 dark:text-neutral-200 sm:text-4xl mb-4">
-          Professeur Thierno Thioune
+          Prof. Thierno Thioune
         </h1>
         <p class="text-xl text-primary-600 font-medium mb-6">
-          Agrégé des Facultés d'Economie à l'UCAD
+          Agrégé des Facultés d'Économie à l'UCAD
         </p>
         
         <div class="space-y-6 text-lg text-neutral-600 dark:text-neutral-400">
           <p>
-            Le Professeur Thierno Thioune est un chercheur et universitaire de renom, 
-            spécialiste des questions de développement économique, de macroéconomie et 
-            de politiques publiques.
+            Le Professeur Thierno Thioune est un chercheur et universitaire de renom, spécialiste des questions de développement économique, de macroéconomie et de politiques publiques.
           </p>
           <p>
-            Il est Professeur Titulaire à la Faculté des Sciences Économiques et de Gestion (FASEG) 
-            de l'Université Cheikh Anta Diop de Dakar (UCAD).
+            Économiste confirmé avec plus de 15 ans d'expérience en finance, investissement stratégique et gouvernance d'institutions financières. Il possède une expertise reconnue en développement d'instruments financiers innovants, mécanismes de PPP, financement de projets structurants et supervision du secteur financier (BCEAO, BOAD).
           </p>
           <p>
-            Ancien Directeur du Centre de Recherches Économiques Appliquées (CREA), il a mené 
-            de nombreuses études sur l'intégration économique (CEDEAO, UEMOA), les inégalités de revenus, 
-            et la vulnérabilité économique en Afrique Subsaharienne.
+            Ancien Directeur du Centre de Recherches Économiques Appliquées (CREA) et Post-Doc à Sciences Po Paris, il a mené de nombreuses études sur l'intégration économique (CEDEAO, UEMOA), les inégalités de revenus, et la vulnérabilité économique en Afrique Subsaharienne. Il totalise aujourd'hui plus de 20 publications dans des revues internationales.
           </p>
         </div>
       </div>
     </div>
 
-    <div class="mt-16">
-      <h2 class="text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-8">Parcours et Expériences</h2>
+    <!-- Timeline Expériences -->
+    <div class="mt-20">
+      <h2 class="text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-8 flex items-center gap-2">
+        <svg class="w-6 h-6 text-primary-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        Gouvernance et Institutions
+      </h2>
       
       <div class="space-y-8 relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-neutral-300 before:to-transparent dark:before:via-neutral-700">
         
-        <!-- Timeline Item 1 -->
-        <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
-          <div class="flex items-center justify-center w-10 h-10 rounded-full border border-white bg-neutral-200 group-[.is-active]:bg-primary-500 text-neutral-500 group-[.is-active]:text-white shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 dark:bg-neutral-800 dark:border-neutral-900">
-            <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-          </div>
-          <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded-xl border border-neutral-200 bg-white shadow-sm dark:border-neutral-700 dark:bg-neutral-800">
-            <div class="flex items-center justify-between mb-1">
-              <div class="font-bold text-neutral-800 dark:text-neutral-200">Professeur Titulaire et Agrégé</div>
+        {experiences.map((exp, index) => (
+          <div class={`relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group ${index === 0 ? 'is-active' : ''}`}>
+            <div class={`flex items-center justify-center w-10 h-10 rounded-full border border-white shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 dark:border-neutral-900 ${index === 0 ? 'bg-primary-500 text-white' : 'bg-neutral-200 text-neutral-500 dark:bg-neutral-800'}`}>
+              <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
             </div>
-            <div class="text-sm font-medium text-primary-500 mb-2">UCAD - FASEG</div>
-            <div class="text-sm text-neutral-600 dark:text-neutral-400">Enseignement, recherche, et encadrement doctoral.</div>
-          </div>
-        </div>
-
-        <!-- Timeline Item 2 -->
-        <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
-          <div class="flex items-center justify-center w-10 h-10 rounded-full border border-white bg-neutral-200 text-neutral-500 shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 dark:bg-neutral-800 dark:border-neutral-900">
-            <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
-          </div>
-          <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded-xl border border-neutral-200 bg-white shadow-sm dark:border-neutral-700 dark:bg-neutral-800">
-            <div class="flex items-center justify-between mb-1">
-              <div class="font-bold text-neutral-800 dark:text-neutral-200">Directeur</div>
+            <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded-xl border border-neutral-200 bg-white shadow-sm dark:border-neutral-700 dark:bg-neutral-800 transition hover:shadow-md">
+              <div class="flex items-center justify-between mb-1">
+                <div class="font-bold text-neutral-800 dark:text-neutral-200">{exp.title}</div>
+                <span class="text-xs font-medium text-neutral-500 dark:text-neutral-400 bg-neutral-100 dark:bg-neutral-700 px-2 py-1 rounded">{exp.date}</span>
+              </div>
+              <div class="text-sm font-medium text-primary-500 mb-2">{exp.organization}</div>
+              <div class="text-sm text-neutral-600 dark:text-neutral-400">{exp.description}</div>
             </div>
-            <div class="text-sm font-medium text-primary-500 mb-2">Centre de Recherches Économiques Appliquées (CREA)</div>
-            <div class="text-sm text-neutral-600 dark:text-neutral-400">Direction des études et des recherches stratégiques sur l'économie africaine.</div>
           </div>
-        </div>
-
+        ))}
+        
       </div>
     </div>
+
+    <!-- Timeline Formations -->
+    <div class="mt-20">
+      <h2 class="text-2xl font-bold text-neutral-800 dark:text-neutral-200 mb-8 flex items-center gap-2">
+        <svg class="w-6 h-6 text-primary-500" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        Formation Académique
+      </h2>
+      
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {education.map(edu => (
+          <div class="flex flex-col bg-white border border-neutral-200 shadow-sm rounded-xl p-4 md:p-5 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70 hover:border-primary-500 dark:hover:border-primary-500 transition-colors">
+            <div class="flex justify-between items-center mb-4">
+              <div class="w-10 h-10 flex justify-center items-center rounded-full bg-primary-100 text-primary-600 dark:bg-primary-900 dark:text-primary-400">
+                <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+              </div>
+              <span class="text-sm font-bold text-neutral-400">{edu.date}</span>
+            </div>
+            <h3 class="text-lg font-bold text-neutral-800 dark:text-white mb-1">
+              {edu.title}
+            </h3>
+            <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">
+              {edu.institution}
+            </p>
+          </div>
+        ))}
+      </div>
+    </div>
+
   </div>
 </MainLayout>

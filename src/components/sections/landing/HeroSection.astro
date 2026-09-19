@@ -77,13 +77,13 @@ interface Props {
 
   </div>
   <!-- Hero Image Section -->
-  <div class="flex w-full">
-      <div class="top-12 overflow-hidden">
+  <div class="flex w-full items-center justify-center">
+      <div class="top-12 overflow-hidden rounded-[2.5rem] border-4 border-white/60 dark:border-white/10 shadow-[0_8px_30px_rgba(0,0,0,0.15)] dark:shadow-[0_8px_30px_rgba(0,0,0,0.5)] bg-white/10 backdrop-blur-sm">
 	{src && alt &&
 	<Image
         src={src}
         alt={alt}
-        class="h-full w-full scale-110 object-cover object-center"
+        class="h-full w-full object-cover object-center transition-transform duration-700 hover:scale-105"
         draggable={"false"}
         loading={"eager"}
         format={"avif"}

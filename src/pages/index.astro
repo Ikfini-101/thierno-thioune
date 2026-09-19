@@ -17,15 +17,21 @@ import profImage from "@/assets/images/photo_TT.png";
     alt="Professeur Thierno Thioune"
   />
 
-  <section id="bio" class="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
-    <div class="glass-panel">
-      <h2 class="mb-6 text-3xl font-bold text-primary-500">Biographie</h2>
-      <p class="mb-4 text-lg leading-relaxed text-neutral-700 dark:text-neutral-300">
-        Le Professeur Thierno Thioune est un éminent spécialiste en sciences économiques, professeur titulaire et agrégé. Il mène des recherches approfondies sur le développement économique, les politiques publiques et les dynamiques de croissance en Afrique et à l'international.
-      </p>
-      <p class="text-lg leading-relaxed text-neutral-700 dark:text-neutral-300">
-        Son engagement académique et son expertise de haut niveau en font un acteur incontournable du paysage intellectuel et institutionnel, ayant notamment dirigé le Centre de Recherches Économiques Appliquées (CREA).
-      </p>
+  <section id="bio" class="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 relative z-0">
+    <div class="rounded-3xl border border-white/80 dark:border-white/10 bg-white/50 dark:bg-black/30 p-8 backdrop-blur-3xl shadow-[0_8px_30px_rgb(0,0,0,0.04),inset_0_1px_1px_rgba(255,255,255,1),inset_0_-1px_1px_rgba(255,255,255,0.3)] dark:shadow-[0_8px_30px_rgb(0,0,0,0.4),inset_0_1px_1px_rgba(255,255,255,0.1)] relative overflow-hidden group">
+      
+      <!-- Liquid shine sweep effect on hover -->
+      <div class="absolute top-0 -inset-full h-full w-1/2 z-0 block transform -skew-x-12 bg-gradient-to-r from-transparent via-white/40 to-transparent opacity-0 transition duration-1000 group-hover:opacity-100 group-hover:translate-x-[200%] dark:via-white/5"></div>
+      
+      <div class="relative z-10">
+        <h2 class="mb-6 text-3xl font-bold text-primary-600 dark:text-primary-400">Biographie</h2>
+        <p class="mb-4 text-lg leading-relaxed text-neutral-800 dark:text-neutral-200">
+          Le Professeur Thierno Thioune est un éminent spécialiste en sciences économiques, professeur titulaire et agrégé. Il mène des recherches approfondies sur le développement économique, les politiques publiques et les dynamiques de croissance en Afrique et à l'international.
+        </p>
+        <p class="text-lg leading-relaxed text-neutral-800 dark:text-neutral-200">
+          Son engagement académique et son expertise de haut niveau en font un acteur incontournable du paysage intellectuel et institutionnel, ayant notamment dirigé le Centre de Recherches Économiques Appliquées (CREA).
+        </p>
+      </div>
     </div>
   </section>
 </MainLayout>

@@ -1,10 +1,10 @@
-import ogImageSrc from "@images/social.png";
+﻿import ogImageSrc from "@images/social.png";
 
 export const SITE = {
-  title: "TooluBaay",
-  tagline: "AgriTech & GIE Arachide au Sénégal",
-  description: "TooluBaay est une entreprise sociale sénégalaise structurant la filière arachide avec un réseau de GIE de femmes et jeunes en milieu rural, combinant innovation numérique (assistance météo, diagnostic IA) et transformation locale durable.",
-  description_short: "TooluBaay structure la filière arachide et soutient l'autonomisation des femmes et jeunes en milieu rural au Sénégal grâce à l'AgriTech.",
+  title: "xelqoomlab",
+  tagline: "AgriTech & GIE Arachide au SÃ©nÃ©gal",
+  description: "TooluBaay est une entreprise sociale sÃ©nÃ©galaise structurant la filiÃ¨re arachide avec un rÃ©seau de GIE de femmes et jeunes en milieu rural, combinant innovation numÃ©rique (assistance mÃ©tÃ©o, diagnostic IA) et transformation locale durable.",
+  description_short: "TooluBaay structure la filiÃ¨re arachide et soutient l'autonomisation des femmes et jeunes en milieu rural au SÃ©nÃ©gal grÃ¢ce Ã  l'AgriTech.",
   url: "https://toolubaay.sn",
   author: "TooluBaay Cooperative",
 };
@@ -33,8 +33,8 @@ export const OG = {
   locale: "fr_FR",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: AgriTech & Transformation d'Arachide Inclusive au Sénégal`,
-  description: "Découvrez notre modèle de pâte d'arachide premium 100% naturelle et l'impact direct sur les GIE de femmes et de jeunes en milieu rural.",
+  title: `${SITE.title}: AgriTech & Transformation d'Arachide Inclusive au SÃ©nÃ©gal`,
+  description: "DÃ©couvrez notre modÃ¨le de pÃ¢te d'arachide premium 100% naturelle et l'impact direct sur les GIE de femmes et de jeunes en milieu rural.",
   image: ogImageSrc,
 };
 

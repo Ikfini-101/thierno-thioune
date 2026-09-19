@@ -1,6 +1,5 @@
 ﻿const navBarLinks = [
   { name: "Accueil", url: "/" },
-  { name: "Profil & Parcours", url: "/#profil" },
   { name: "Publications", url: "/publications" },
 ];
 
@@ -9,7 +8,6 @@ const footerLinks = [
     section: "Parcours",
     links: [
       { name: "Accueil", url: "/" },
-      { name: "Profil & Parcours", url: "/#profil" },
       { name: "Publications Scientifiques", url: "/publications" },
     ],
   }

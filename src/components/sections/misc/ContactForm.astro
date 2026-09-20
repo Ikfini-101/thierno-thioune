@@ -1,6 +1,6 @@
----
-// Composant formulaire contact — Astro 5 · TailwindCSS 4 · Resend via /api/contact
-// Langues supportées : fr | en
+﻿---
+// Composant formulaire contact â€” Astro 5 Â· TailwindCSS 4 Â· Resend via /api/contact
+// Langues supportÃ©es : fr | en
 
 interface Props {
   lang?: "fr" | "en";
@@ -10,24 +10,24 @@ const { lang = "fr" } = Astro.props;
 
 const labels = {
   fr: {
-    firstName: "Prénom",
+    firstName: "PrÃ©nom",
     lastName: "Nom",
     email: "Email",
     subject: "Sujet",
     subjectOptional: "(optionnel)",
     message: "Message",
-    submit: "Envoyer le message →",
+    submit: "Envoyer le message â†’",
     sending: "Envoi en cours...",
     required: "Champs obligatoires",
-    replyTime: "Réponse sous 24–48h",
-    successTitle: "Message envoyé !",
-    successText: "Nous reviendrons vers vous dans les meilleurs délais.",
+    replyTime: "RÃ©ponse sous 24â€“48h",
+    successTitle: "Message envoyÃ© !",
+    successText: "Nous reviendrons vers vous dans les meilleurs dÃ©lais.",
     successReset: "Envoyer un autre message",
-    placeholderFirstName: "Votre prénom",
+    placeholderFirstName: "Votre prÃ©nom",
     placeholderLastName: "Votre nom",
     placeholderEmail: "votre@email.com",
     placeholderSubject: "Ex : Demande d'information",
-    placeholderMessage: "Décrivez votre demande...",
+    placeholderMessage: "DÃ©crivez votre demande...",
   },
   en: {
     firstName: "First name",
@@ -36,10 +36,10 @@ const labels = {
     subject: "Subject",
     subjectOptional: "(optional)",
     message: "Message",
-    submit: "Send message →",
+    submit: "Send message â†’",
     sending: "Sending...",
     required: "Required fields",
-    replyTime: "Reply within 24–48h",
+    replyTime: "Reply within 24â€“48h",
     successTitle: "Message sent!",
     successText: "We will get back to you as soon as possible.",
     successReset: "Send another message",
@@ -56,10 +56,10 @@ const t = labels[lang];
 
 <div id="contact-form-wrapper" class="w-full">
 
-  <!-- État succès -->
+  <!-- Ã‰tat succÃ¨s -->
   <div id="contact-success" class="hidden flex-col items-center justify-center gap-6 py-16 text-center">
     <div class="flex h-16 w-16 items-center justify-center rounded-full bg-green-50 text-3xl text-green-600">
-      ✓
+      âœ“
     </div>
     <div>
       <h3 class="text-xl font-bold text-neutral-900 dark:text-neutral-100">{t.successTitle}</h3>
@@ -76,7 +76,7 @@ const t = labels[lang];
   <!-- Formulaire -->
   <form id="contact-form" class="flex flex-col gap-5" novalidate>
 
-    <!-- Prénom / Nom -->
+    <!-- PrÃ©nom / Nom -->
     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
       <div class="flex flex-col gap-1.5">
         <label for="cf-firstName" class="text-sm font-semibold text-neutral-700 dark:text-neutral-300">
@@ -167,7 +167,7 @@ const t = labels[lang];
     </button>
 
     <p class="text-center text-xs text-neutral-400">
-      {t.replyTime} · <span class="text-red-400">*</span> {t.required}
+      {t.replyTime} Â· <span class="text-red-400">*</span> {t.required}
     </p>
 
   </form>
@@ -189,7 +189,7 @@ const t = labels[lang];
       submitBtn!.disabled = loading;
       submitText!.textContent = loading
         ? (document.documentElement.lang === "en" ? "Sending..." : "Envoi en cours...")
-        : (document.documentElement.lang === "en" ? "Send message →" : "Envoyer le message →");
+        : (document.documentElement.lang === "en" ? "Send message â†’" : "Envoyer le message â†’");
       submitSpinner!.classList.toggle("hidden", !loading);
       form!.querySelectorAll("input, textarea").forEach((el) => {
         (el as HTMLInputElement | HTMLTextAreaElement).disabled = loading;
@@ -228,7 +228,7 @@ const t = labels[lang];
         access_key: "14e39eb2-cb9b-4792-acd2-b199a8272685",
         name: `${(formData.get("firstName") as string)?.trim()} ${(formData.get("lastName") as string)?.trim()}`,
         email: (formData.get("email") as string)?.trim(),
-        subject: (formData.get("subject") as string)?.trim() || "Nouveau message de Toolubaay",
+        subject: (formData.get("subject") as string)?.trim() || "Nouveau message de Professeur Thierno Thioune",
         message: (formData.get("message") as string)?.trim(),
       };
 
@@ -249,13 +249,13 @@ const t = labels[lang];
         if (result.success) {
           showSuccess();
         } else {
-          showError(result.error ?? "Une erreur est survenue. Veuillez réessayer.");
+          showError(result.error ?? "Une erreur est survenue. Veuillez rÃ©essayer.");
         }
       } catch {
         showError(
           document.documentElement.lang === "en"
             ? "Network error. Check your connection and try again."
-            : "Erreur réseau. Vérifiez votre connexion et réessayez."
+            : "Erreur rÃ©seau. VÃ©rifiez votre connexion et rÃ©essayez."
         );
       } finally {
         setLoading(false);
@@ -267,3 +267,4 @@ const t = labels[lang];
   document.addEventListener("astro:page-load", initContactForm);
   initContactForm();
 </script>
+

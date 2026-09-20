@@ -1,12 +1,12 @@
-﻿import ogImageSrc from "@images/social.png";
+import ogImageSrc from "@images/social.png";
 
 export const SITE = {
   title: "xelqoomlab",
   tagline: "AgriTech & GIE Arachide au SÃ©nÃ©gal",
-  description: "TooluBaay est une entreprise sociale sÃ©nÃ©galaise structurant la filiÃ¨re arachide avec un rÃ©seau de GIE de femmes et jeunes en milieu rural, combinant innovation numÃ©rique (assistance mÃ©tÃ©o, diagnostic IA) et transformation locale durable.",
-  description_short: "TooluBaay structure la filiÃ¨re arachide et soutient l'autonomisation des femmes et jeunes en milieu rural au SÃ©nÃ©gal grÃ¢ce Ã  l'AgriTech.",
-  url: "https://toolubaay.sn",
-  author: "TooluBaay Cooperative",
+  description: "Site officiel du Professeur Thierno Thioune, Agrégé des Facultés d'Économie à l'Université Cheikh Anta Diop.",
+  description_short: "Site officiel du Professeur Thierno Thioune, Agrégé en Sciences Économiques.",
+  url: "https://thiernothioune.com",
+  author: "Prof. Thierno Thioune",
 };
 
 export const SEO = {

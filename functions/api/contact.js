@@ -1,8 +1,8 @@
-/**
- * Cloudflare Pages Function — POST /api/contact
+﻿/**
+ * Cloudflare Pages Function â€” POST /api/contact
  * Runtime : Cloudflare Workers (edge)
- * Email   : Resend API (fetch natif, pas de SDK à bundler)
- * Destinataires : cblniv15@gmail.com · infotoolubay@gmail.com
+ * Email   : Resend API (fetch natif, pas de SDK Ã  bundler)
+ * Destinataires : cblniv15@gmail.com Â· infoProf. Thioune@gmail.com
  */
 
 export async function onRequestPost(context) {
@@ -22,7 +22,7 @@ export async function onRequestPost(context) {
     }
   } catch {
     return Response.json(
-      { success: false, error: "Requête invalide." },
+      { success: false, error: "RequÃªte invalide." },
       { status: 400 }
     );
   }
@@ -37,7 +37,7 @@ export async function onRequestPost(context) {
     !message?.trim()
   ) {
     return Response.json(
-      { success: false, error: "Tous les champs obligatoires doivent être remplis." },
+      { success: false, error: "Tous les champs obligatoires doivent Ãªtre remplis." },
       { status: 400 }
     );
   }
@@ -50,7 +50,7 @@ export async function onRequestPost(context) {
     );
   }
 
-  // --- Clé API Web3Forms ---
+  // --- ClÃ© API Web3Forms ---
   const accessKey = env.WEB3FORMS_ACCESS_KEY || "14e39eb2-cb9b-4792-acd2-b199a8272685";
 
   if (!accessKey || accessKey.startsWith("PLACEHOLDER")) {
@@ -66,7 +66,7 @@ export async function onRequestPost(context) {
       access_key: accessKey,
       name: `${firstName} ${lastName}`,
       email: email,
-      subject: subject?.trim() ? `[Toolubaay] ${subject.trim()}` : "Nouveau message depuis TooluBaay",
+      subject: subject?.trim() ? `[Prof. Thioune] ${subject.trim()}` : "Nouveau message depuis Prof. Thioune",
       message: message,
       replyto: email
     };
@@ -85,7 +85,7 @@ export async function onRequestPost(context) {
     if (!response.ok || !result.success) {
       console.error("[Web3Forms Error]", response.status, result);
       return Response.json(
-        { success: false, error: "Erreur lors de l'envoi. Veuillez réessayer." },
+        { success: false, error: "Erreur lors de l'envoi. Veuillez rÃ©essayer." },
         { status: 500 }
       );
     }
@@ -94,8 +94,10 @@ export async function onRequestPost(context) {
   } catch (e) {
     console.error("[Contact Function Error]", e);
     return Response.json(
-      { success: false, error: "Erreur serveur. Veuillez réessayer." },
+      { success: false, error: "Erreur serveur. Veuillez rÃ©essayer." },
       { status: 500 }
     );
   }
 }
+
+

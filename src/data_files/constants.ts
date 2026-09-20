@@ -2,7 +2,7 @@ import ogImageSrc from "@images/social.png";
 
 export const SITE = {
   title: "xelqoomlab",
-  tagline: "AgriTech & GIE Arachide au SÃ©nÃ©gal",
+  tagline: "Professeur Thierno Thioune",
   description: "Site officiel du Professeur Thierno Thioune, Agrégé des Facultés d'Économie à l'Université Cheikh Anta Diop.",
   description_short: "Site officiel du Professeur Thierno Thioune, Agrégé en Sciences Économiques.",
   url: "https://thiernothioune.com",
@@ -33,8 +33,8 @@ export const OG = {
   locale: "fr_FR",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: AgriTech & Transformation d'Arachide Inclusive au SÃ©nÃ©gal`,
-  description: "DÃ©couvrez notre modÃ¨le de pÃ¢te d'arachide premium 100% naturelle et l'impact direct sur les GIE de femmes et de jeunes en milieu rural.",
+  title: `Professeur Thierno Thioune - xelqoomlab`,
+  description: "Site officiel du Professeur Thierno Thioune, Agrégé des Facultés d'Économie à l'Université Cheikh Anta Diop.",
   image: ogImageSrc,
 };
 
